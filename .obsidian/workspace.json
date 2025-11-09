@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/Team 2/Team 2 project's Over view.md",
+                "file": "content/collaborators/communities-of-place/hub/Team 3/Project 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team 2 project's Over view"
+              "title": "Project 3"
             }
           }
         ]
@@ -183,9 +183,11 @@
   "active": "ef28eafa8cd61b5e",
   "lastOpenFiles": [
     "content/collaborators/communities-of-place/hub/Goma Hub Team.md",
+    "content/collaborators/communities-of-place/hub/Team 3/Project 3.md",
+    "content/collaborators/communities-of-place/hub/Team 3",
+    "content/collaborators/communities-of-place/hub/Team1/Team 1 Project Over view.md",
     "content/collaborators/communities-of-place/hub/Team 2/Team 2 project's Over view.md",
     "content/collaborators/communities-of-place/hub/Team 2",
-    "content/collaborators/communities-of-place/hub/Team1/Team 1 Project Over view.md",
     "PAX-POOL2 SS.png",
     "content/collaborators/communities-of-place/hub/Team1",
     "content/patterns/action-learning.md",
@@ -214,7 +216,6 @@
     "content/processes/evaluation/Philosophy.md",
     "content/processes/evaluation/2. Our Methodology/index.md",
     "content/processes/enrolment/Hub Enrollment Form Design.md",
-    "content/collaborators/participants/scribes.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
@@ -226,7 +227,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "patterns",
-    "index"
+    "patterns"
   ]
 }
