@@ -11,14 +11,12 @@
             "id": "ef28eafa8cd61b5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/Team 5/Architecture du projet.md",
-                "mode": "source",
-                "source": false
+                "file": "public/process-facilitation.png"
               },
-              "icon": "lucide-file",
-              "title": "Architecture du projet"
+              "icon": "lucide-image",
+              "title": "process-facilitation"
             }
           }
         ]
@@ -180,27 +178,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef28eafa8cd61b5e",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/hub/Team 5/Membres d'équipe du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Organiser Team/Physical events",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Organiser Team/Calls informations",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 8",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 5",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Organiser Team",
+    "public/process-facilitation.png",
+    "public/prisma-name-text.svg",
+    "public/pi.png",
+    "public/organising-pattern.png",
+    "public/name-text-meeting-cards.png",
     "content/collaborators/communities-of-place/hub/Team 5/Architecture du projet.md",
+    "content/collaborators/communities-of-place/hub/Team 5/Membres d'équipe du projet.md",
     "content/collaborators/communities-of-place/hub/Team 3/Project 3.md",
-    "content/collaborators/communities-of-place/hub/Team 5/Untitled",
-    "content/collaborators/communities-of-place/hub/Team 5",
     "content/collaborators/communities-of-place/hub/Goma Hub Team.md",
-    "content/collaborators/communities-of-place/hub/Team 3",
     "content/collaborators/communities-of-place/hub/Team1/Team 1 Project Over view.md",
     "content/collaborators/communities-of-place/hub/Team 2/Team 2 project's Over view.md",
-    "content/collaborators/communities-of-place/hub/Team 2",
     "PAX-POOL2 SS.png",
-    "content/collaborators/communities-of-place/hub/Team1",
     "content/patterns/action-learning.md",
     "collaborators/communities-of-place/hub/hubs.md",
-    "collaborators/communities-of-place/hub",
-    "collaborators/communities-of-place",
     "collaborators/communities-of-practice/practice-networks.md",
-    "collaborators/communities-of-practice",
-    "collaborators",
     "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning journeys.md",
     "add.md",
@@ -217,16 +222,9 @@
     "content/processes/evaluation/index.md",
     "content/processes/evaluation/1. Our Approach/index.md",
     "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-    "content/processes/evaluation/Philosophy.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
-    "evaluation day4 1.jpg",
-    "evaluation day4.jpg",
-    "evaluation day3.jpg",
-    "evaluation day2.jpg",
-    "evaluation day1 1.jpg",
-    "evaluation day1.jpg"
+    "evaluation day4 1.jpg"
   ]
 }
