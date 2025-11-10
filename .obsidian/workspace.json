@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ea31c1753f0664",
+        "id": "f6e2c6a151f248ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ef28eafa8cd61b5e",
+            "id": "62a9e0d354296476",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "public/process-facilitation.png"
-              },
-              "icon": "lucide-image",
-              "title": "process-facilitation"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,6 +178,7 @@
   },
   "active": "103e101048551643",
   "lastOpenFiles": [
+    "public/process-facilitation.png",
     "content/collaborators/communities-of-place/hub/Goma Hub Team.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Organiser Team/Physical events",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Organiser Team/Calls informations",
@@ -191,7 +190,6 @@
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1",
-    "public/process-facilitation.png",
     "public/prisma-name-text.svg",
     "public/pi.png",
     "public/organising-pattern.png",
