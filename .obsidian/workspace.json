@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/Team 3/Project 3.md",
+                "file": "content/collaborators/communities-of-place/hub/Team 5/Architecture du projet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project 3"
+              "title": "Architecture du projet"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "ef28eafa8cd61b5e",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/hub/Goma Hub Team.md",
+    "content/collaborators/communities-of-place/hub/Team 5/Membres d'équipe du projet.md",
+    "content/collaborators/communities-of-place/hub/Team 5/Architecture du projet.md",
     "content/collaborators/communities-of-place/hub/Team 3/Project 3.md",
+    "content/collaborators/communities-of-place/hub/Team 5/Untitled",
+    "content/collaborators/communities-of-place/hub/Team 5",
+    "content/collaborators/communities-of-place/hub/Goma Hub Team.md",
     "content/collaborators/communities-of-place/hub/Team 3",
     "content/collaborators/communities-of-place/hub/Team1/Team 1 Project Over view.md",
     "content/collaborators/communities-of-place/hub/Team 2/Team 2 project's Over view.md",
@@ -214,19 +218,15 @@
     "content/processes/evaluation/1. Our Approach/index.md",
     "content/processes/evaluation/1. Our Approach/a. Foundations.md",
     "content/processes/evaluation/Philosophy.md",
-    "content/processes/evaluation/2. Our Methodology/index.md",
-    "content/processes/enrolment/Hub Enrollment Form Design.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
-    "video_2025-06-30_20-19-20.mp4",
     "evaluation day2 1.jpg",
     "evaluation day4 1.jpg",
     "evaluation day4.jpg",
     "evaluation day3.jpg",
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
-    "evaluation day1.jpg",
-    "patterns"
+    "evaluation day1.jpg"
   ]
 }
