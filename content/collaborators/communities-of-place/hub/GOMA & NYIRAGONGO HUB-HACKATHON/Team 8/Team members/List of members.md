@@ -1,0 +1,12 @@
+
+|     |                         |                                                                          |                       |                                                                                                           |
+| --- | ----------------------- | ------------------------------------------------------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------- |
+| N°  | NOMS & PRÉNOMS          | GitHub (s’il y en a)                                                     | RÔLE                  | Contacts                                                                                                  |
+| 1.  | Alain Paluku            | [https://github.com/alainpaluku](https://github.com/alainpaluku)         | Développeur rust      | - mail: [alainpalukuba@gmail.com](mailto:alainpalukuba@gmail.com) <br>    <br>- Phone: +243979102952      |
+| 2.  | Nyange munyaneza sandra | [https://github.com/sandramunyaneza](https://github.com/sandramunyaneza) |                       | - mail:[Sandramunyaneza1@gmail.com](mailto:Sandramunyaneza1@gmail.com) <br>    <br>- Phone: +243972811353 |
+| 3.  | Yedidya kahire          | [https://github.com/Yedikhg](https://github.com/Yedikhg)                 | Développeur python    | - mail:[yedidyakahire475@gmail.com](mailto:yedidyakahire475@gmail.com) <br>    <br>- Phone: +243973408217 |
+| 4.  | Félicité Paul           |                                                                          | Développeur typscript | - mail:<br>    <br>- Phone: +243 976 484 591                                                              |
+| 5.  | Jonas Makeke            | https://github.com/jonas-makeke                                          | Développeur Junior    | - mail: [jmakeke6@gmail.com](mailto:jmakeke6@gmail.com) <br>    <br>- Phone: +243990351690                |
+| 6.  | Benjamin Musagara       | [https://github.com/BenHuruma](https://github.com/BenHuruma)             |                       | - mail:[benjaminhuruma@gmail.com](mailto:benjaminhuruma@gmail.com) <br>    <br>- Phone: +243981082394     |
+| 7.  | Dieume KABADUKA         | [https://github.com/dieuaimekab](https://github.com/dieuaimekab)         |                       | - mail:[dieuaimekab476@gmail.com](mailto:dieuaimekab476@gmail.com) <br>    <br>- Phone: 0992346465        |
+

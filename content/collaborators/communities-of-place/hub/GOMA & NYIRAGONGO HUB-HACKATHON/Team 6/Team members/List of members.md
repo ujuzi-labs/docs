@@ -1,0 +1,12 @@
+**Liste des membres d’équipe du projet
+
+|     |                         |                                                                      |                                |                                                                                                      |
+| --- | ----------------------- | -------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| N°  | NOMS & PRÉNOMS          | Github                                                               | RÔLE                           | Contacts                                                                                             |
+| 1.  | BARAKA BIGEGA ESPOIR    | [https://github.com/espoirbaraka](https://github.com/espoirbaraka)   | Développeur web                | - [Envoyer mail](mailto:alainpalukuba@gmail.com) <br>    <br>- Phone: +243977553723                  |
+| 2.  | SIWA MUMBERE CARIN      | [https://github.com/thecarinsiwa](https://github.com/thecarinsiwa)   | Développeur web                | - [Envoyer un mail](mailto:thecarinsiwa@gmail.com) <br>    <br>- Phone: +243975579097                |
+| 3.  | BWIZA BAHIZI RUTH       | [https://github.com/RUTHbhz](https://github.com/RUTHbhz)             | Team leader et développeur web | - [Envoyer mail à ruth](http://ruthbahizi04@gmail.com)<br>    <br>- Phone: +243996756995             |
+| 4.  | MUPENDA BYALAHIRE PAUL  | [https://github.com/paulmupenda](https://github.com/paulmupenda)     | Développeur blockchain         | - [envoyer mail à Paul](http://paulmupendab@gmail.com)<br>    <br>- Phone: +243852641389             |
+| 5.  | AKILIMALI CHIZUNGU AKIM | [https://github.com/Innocent-Akim](https://github.com/Innocent-Akim) | Développeur blockchain         | - mail: [gentilakili98@gmail.com](mailto:gentilakili98@gmail.com) <br>    <br>- Phone: +243977748166 |
+| 6.  | MUDERHWA SAFARI ANDRE   | [https://github.com/AndreMuderhwa](https://github.com/AndreMuderhwa) | Développeur python             | - mail: [safariandre66@gmail.com](mailto:safariandre66@gmail.com) <br>    <br>- Phone: +243991900843 |
+| 7.  |                         |                                                                      |                                | - mail:<br>    <br>- Phone:                                                                          |
