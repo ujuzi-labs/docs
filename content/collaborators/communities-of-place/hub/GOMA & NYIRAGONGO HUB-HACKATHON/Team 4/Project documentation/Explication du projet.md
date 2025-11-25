@@ -153,7 +153,6 @@ Réputation augmentée, badges gagnés.
 ### 6. Gamification
 
 Chaque action rapporte des points (convertibles en ADA testnet dans le cadre du hackathon).
-
 ---
 
 V. Section à compléter après enquête  
@@ -164,9 +163,7 @@ Cette section détaillera :
 - taux d’arnaques estimé,
 - taux d’utilisation de Mobile Money et crypto,
 - attentes concrètes vis-à-vis de Wenze.
-Ces données valideront quantitativement la pertinence du projet.
-
----
+Ces données valideront quantitativement la pertinence du projet.---
 ## Conclusion
 
 **Wenze n’est pas juste une application :  
