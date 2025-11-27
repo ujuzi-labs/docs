@@ -1,51 +1,7 @@
 
 ## Table des matières
 
-[Table des matières 1](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.1n6xerl1xj41)
 
-[Vue d'ensemble 2](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.jrk0luccxnx2)
-
-[Signification de “MkulimaChain” 2](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.vxdjk92yuqz8)
-
-[Notre Vision 3](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.gxd56smwxk84)
-
-[Notre Mission 3](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.f9qxx6csx453)
-
-[Problématique 4](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.j79er0mfjegn)
-
-[Contexte : La RDC, un géant agricole en sommeil 4](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.5270tuslkyar)
-
-[Statistiques alarmantes 4](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.3fwj7ptbcpjt)
-
-[Défis identifiés 5](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.19kl18e9m829)
-
-[Résultat 5](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.w7c4tiaqtquw)
-
-[Solution proposée 6](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.jlgkit8o6f45)
-
-[Architecture multi-plateformes 6](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.m7d7nrahhdk5)
-
-[Avantages de l'architecture multi-plateformes 6](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.91c9o6h0rar)
-
-[Produits ciblés 7](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.lwjnpkvo6hmj)
-
-[Fonctionnalités clés par plateforme 7](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.dydc10f05b15)
-
-[Avantages compétitifs 7](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.s7ng63inomub)
-
-[Intégration Cardano 8](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.gqf39dadywwo)
-
-[Trois piliers de l'intégration Cardano 8](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.bni5oa3ory0l)
-
-[Architecture Cardano 8](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.lv4s38demdu5)
-
-[Composants détaillés 9](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.42rm3klhl99i)
-
-[Cardano Blockchain - Le Cœur du Système 9](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.3jhiljm5aj0v)
-
-[Composants techniques Cardano 10](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.mo4crr8rgqda)
-
-[Stack technologique détaillée 10](https://docs.google.com/document/d/1gacOVdJprjK-ZO-JFgcDhJ1UoIJhdl2f3zsk4-0Vtl8/edit?tab=t.0#heading=h.k1nvzll6be6b)
 ## Vue d'ensemble
 
 Innovation : MkulimaChain est une plateforme blockchain innovante conçue pour révolutionner le secteur agricole en République Démocratique du Congo (RDC). En exploitant la puissance de la blockchain Cardano, cette solution connecte directement les petits agriculteurs aux marchés internationaux, éliminant les barrières traditionnelles du financement et de la distribution.
