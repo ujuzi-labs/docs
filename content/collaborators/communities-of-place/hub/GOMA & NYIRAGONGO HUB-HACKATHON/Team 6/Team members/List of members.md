@@ -10,5 +10,3 @@
 | 5.  | AKILIMALI CHIZUNGU AKIM | [https://github.com/Innocent-Akim](https://github.com/Innocent-Akim) | Développeur blockchain         | - mail: [gentilakili98@gmail.com](mailto:gentilakili98@gmail.com) <br>    <br>- Phone: +243977748166 |
 | 6.  | MUDERHWA SAFARI ANDRE   | [https://github.com/AndreMuderhwa](https://github.com/AndreMuderhwa) | Développeur python             | - mail: [safariandre66@gmail.com](mailto:safariandre66@gmail.com) <br>    <br>- Phone: +243991900843 |
 | 7.  |                         |                                                                      |                                | - mail:<br>    <br>- Phone:                                                                          |
-
-Team 6 Members
