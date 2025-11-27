@@ -56,7 +56,6 @@ Innovation : MkulimaChain est une plateforme blockchain innovante conçue pour r
 ### Notre Vision
 
 Créer un écosystème agricole décentralisé, transparent et inclusif qui permet aux agriculteurs congolais d'accéder directement aux ressources financières et aux marchés globaux, sans dépendre des intermédiaires traditionnels.
-
 ### Notre Mission
 
 |   |   |
