@@ -8,7 +8,7 @@ Nous tenons à préciser dès le départ que ce projet s’inscrit dans le cadre
 
 L’histoire de ce projet commence après un certain lundi 10 novembre 2025, lorsque les Hubs de Goma et Nyiragongo ont procédé au lancement officiel du hackathon local organisé dans la ville de Goma et le territoire de Nyiragongo. Tous les participants ont pris part à un appel en ligne de lancement, au cours duquel nous avons compris l’essentiel du hackathon : pourquoi il est organisé, comment y participer efficacement, le choix des problèmes, les exigences concernant les solutions à intégrer dans les applications, etc.
 
-Après cette réunion, les facilitateurs nous ont permis de commencer à constituer les équipes, autorisant les participants à se regrouper afin que chaque équipe puisse travailler sur une solution spécifique selon les exigences du hackathon. C’est ainsi que notre parcours vers la réalisation de ce projet — aujourd’hui connu sous le nom de _Wenze_ — a véritablement commencé.
+Après cette réunion, les facilitateurs nous ont permis de commencer à constituer les équipes, autorisant les participants à se regrouper afin que chaque équipe puisse travailler sur une solution spécifique selon les exigences du hackathon. C’est ainsi que notre parcours vers la réalisation de ce projet, aujourd’hui connu sous le nom de "Wenze" a véritablement commencé.
 
 ## 1. Du 10 au 15 novembre 2025 : Formation de l’équipe
 
