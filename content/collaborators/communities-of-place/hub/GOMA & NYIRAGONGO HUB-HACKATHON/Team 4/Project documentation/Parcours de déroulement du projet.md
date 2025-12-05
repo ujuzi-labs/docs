@@ -365,11 +365,6 @@ Key Questions:
     
 - Comment l'application gérera-t-elle les problèmes potentiels avec les utilisateurs externes lors des transactions ?
     
-
-  
-  
-  
-  
   
 
 CALL DU 03-12-2025
