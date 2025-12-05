@@ -35,9 +35,6 @@ Nous travaillons désormais avec discipline et coordination pour être prêts à
 
 # 📘 Documentation officielle — Projet CardAVEC
 
-                                             Groupe 5 — “La Passion” — CATS 2026
-
-  **  
 ## 1. Présentation du projet
 
 CardAVEC est une plateforme numérique conçue pour moderniser, sécuriser et automatiser les Associations Villageoises d’Épargne et de Crédit (AVEC) grâce aux technologies de la blockchain Cardano, de l’identité décentralisée PRISM et des smart contracts Plutus/Aiken.
@@ -164,18 +161,9 @@ CardAVEC retient 10% des intérêts générés lors de chaque cycle AVEC.
 Ces frais couvrent :
 
 - Maintenance technique  
-      
-    
 - Sécurité et audits  
-      
-    
-- Support utilisateur  
-      
-    
+- Support utilisateur    
 - Améliorations continues  
-      
-    
-
 Ce modèle garantit  la stabilité, la  durabilité et l’autonomie financière de la plateforme.
 
 ## 8. Impact attendu
@@ -183,14 +171,8 @@ Ce modèle garantit  la stabilité, la  durabilité et l’autonomie financiè
 ### Pour les communautés
 
 - Transparence totale des transactions.  
-      
-    
 - Confiance renforcée entre les membres.  
-      
-    
-- Inclusion financière des populations non bancarisées.  
-      
-    
+- Inclusion financière des populations non bancarisées.    
 - Suivi clair des prêts, remboursements et parts.  
       
     
