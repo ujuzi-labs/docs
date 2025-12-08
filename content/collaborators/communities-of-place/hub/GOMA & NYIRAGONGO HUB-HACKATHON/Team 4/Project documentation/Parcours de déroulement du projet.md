@@ -180,11 +180,10 @@ Le meetup a été une étape clé de notre progression. Après plusieurs jours d
 
 Mardi le 25.11.2025
 
-  
+
 
 Développement de la partie login
 
-  
 
 L’utilisateur peut s’inscrire et se connecter sur l’app à travers 2 voies: 
 
@@ -195,7 +194,6 @@ L’utilisateur peut s’inscrire et se connecter sur l’app à travers 2 voies
 
 Pour l’enregistrement, l'utilisateur reçoit un mail d'authentification de son compte et un lien lui redirige vers le tableau de bord où il va trouver différentes fonctionnalités importantes de l’App: Créer un vente, marché, Escrow, Produits,... 
 
-  
 
 2. Concentration sur la connexion Wallet Cardano Testnet pour différentes opérations sur l'application.
 
