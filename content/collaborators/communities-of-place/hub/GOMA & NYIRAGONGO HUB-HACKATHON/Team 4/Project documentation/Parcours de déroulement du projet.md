@@ -49,10 +49,6 @@ Voici un tableau synthétique des membres du groupe :
     
 6. Baudoin Muvungu  
     – Brève expérience :  
-      
-    
-7. Gloire Shukuru  
-    – Brève expérience :
     
 
 NB : L’organisation de notre équipe a commencé par la création d’un groupe WhatsApp (créé par Olivier Mwatsimulamo), dans lequel tous les membres ont été ajoutés. L’objectif était de faciliter les échanges et l’organisation du travail autour du projet du hackathon.  
