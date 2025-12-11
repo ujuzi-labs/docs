@@ -127,9 +127,9 @@ MkulimaChain propose une solution complète et innovante basée sur trois platef
 
 La plateforme se concentre initialement sur trois produits stratégiques :
 
-|   |   |   |
-|---|---|---|
-|#### Cacao<br><br>Potentiel Local : Élevé  <br>Demande : Très élevée  <br>Valeur Ajoutée : Certification premium|#### Café<br><br>Potentiel Local : Élevé  <br>Demande : Très élevée  <br>Valeur Ajoutée : Traçabilité origine|#### Manioc<br><br>Potentiel Local : Très élevé  <br>Demande : Croissante  <br>Valeur Ajoutée : Sécurité alimentaire|
+|                                                                                                                  |                                                                                                               |                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| #### Cacao<br><br>Potentiel Local : Élevé  <br>Demande : Très élevée  <br>Valeur Ajoutée : Certification premium | #### Café<br><br>Potentiel Local : Élevé  <br>Demande : Très élevée  <br>Valeur Ajoutée : Traçabilité origine | #### Manioc<br><br>Potentiel Local : Très élevé  <br>Demande : Croissante  <br>Valeur Ajoutée : Sécurité alimentaire |
 
   
 
