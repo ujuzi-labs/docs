@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { readFile } from 'fs/promises';
-import { join } from 'path';
+import { join, resolve } from 'path';
 
 // Helper function to strip frontmatter from markdown
 function stripFrontmatter(content: string): string {
@@ -31,13 +31,15 @@ export async function GET(
   const contentPath = path.join('/');
   
   // Base directory for content files
-  const baseDir = join(process.cwd(), 'content');
+  // Use resolve() for better compatibility with Vercel serverless environment
+  const baseDir = resolve(process.cwd(), 'content');
 
   try {
     // Try different file variations in order of preference (only .md files)
+    // Use resolve() to ensure absolute paths work correctly on Vercel
     const possiblePaths = [
-      join(baseDir, `${contentPath}.md`),
-      join(baseDir, contentPath, 'index.md'),
+      resolve(baseDir, `${contentPath}.md`),
+      resolve(baseDir, contentPath, 'index.md'),
     ];
 
     for (const filePath of possiblePaths) {
@@ -53,7 +55,11 @@ export async function GET(
             'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400',
           },
         });
-      } catch {
+      } catch (fileError) {
+        // Log error for debugging in Vercel (only for non-ENOENT errors)
+        if (fileError instanceof Error && !fileError.message.includes('ENOENT')) {
+          console.error('Error reading file:', fileError.message, 'at path:', filePath);
+        }
         // Continue to next file path
         continue;
       }
