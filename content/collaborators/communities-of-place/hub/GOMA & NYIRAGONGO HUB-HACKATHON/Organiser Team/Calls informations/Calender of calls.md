@@ -1,1 +1,0 @@
-Le 25 Nov 11, nous avons fait un call, 
