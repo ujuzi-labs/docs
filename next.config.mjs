@@ -23,4 +23,14 @@ export default withNextra({
       }
     ]
   },
+  webpack: (config, { webpack }) => {
+    // Ignore module resolution errors for image files in public directory
+    // This prevents build failures when Nextra tries to resolve images that don't exist
+    config.plugins.push(
+      new webpack.IgnorePlugin({
+        resourceRegExp: /^private-next-root-dir\/public\/.*\.(png|jpg|jpeg|svg|gif)$/,
+      })
+    )
+    return config
+  },
 })
