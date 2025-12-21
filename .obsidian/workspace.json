@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explication Technique du projet"
+              "title": "List of members"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Explication Technique du projet"
+              "title": "Backlinks for List of members"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Explication Technique du projet"
+              "title": "Outgoing links from List of members"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Explication Technique du projet"
+              "title": "Outline of List of members"
             }
           },
           {
@@ -195,10 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16892dd2fdf8853c",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled 1",
+    "Untitled",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+    "conflict-files-obsidian-git.md",
     "content/collaborators/participants/developers.md",
     "content/collaborators/Facilitators/enacting-contract.md",
     "content/collaborators/participants",
@@ -215,7 +217,6 @@
     "content/collaborators/communities-of-practice/copr-value-prop.md",
     "content/collaborators/communities-of-practice",
     "vercel.json",
-    "public/team.json",
     "public/ekow.jpg",
     "public/dids_nest.png",
     "public/abdul.jpg",
@@ -235,7 +236,6 @@
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Parcours de déroulement du projet.md",
     "README.md",
     "OBSIDIAN_SETUP.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7/Team members/List of members.md",
     "public/ecosystemic-partnerships.svg",
     "public/communicating-al.svg",
     "public/action-learning.svg",
