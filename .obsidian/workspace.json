@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6/Rapports d'enquête.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of members"
+              "title": "Rapports d'enquête"
             }
           }
         ],
@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "16892dd2fdf8853c",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6/Progression quotidienne du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6/MKULIMACHAIN.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6/Documentation Mkulima.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
     "Untitled 1",
     "Untitled",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
@@ -216,7 +220,6 @@
     "content/collaborators/communities-of-practice/practice-networks.md",
     "content/collaborators/communities-of-practice/copr-value-prop.md",
     "content/collaborators/communities-of-practice",
-    "vercel.json",
     "public/ekow.jpg",
     "public/dids_nest.png",
     "public/abdul.jpg",
@@ -233,9 +236,6 @@
     "content/glossary/resourcing.md",
     "content/glossary/Capacity-Building.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Théorique du projet.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Parcours de déroulement du projet.md",
-    "README.md",
-    "OBSIDIAN_SETUP.md",
     "public/ecosystemic-partnerships.svg",
     "public/communicating-al.svg",
     "public/action-learning.svg",
