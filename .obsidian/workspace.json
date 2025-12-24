@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Parcours du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parcours du projet"
+              "title": "Explication Technique du projet"
             }
           }
         ],
@@ -195,20 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103e101048551643",
+  "active": "16892dd2fdf8853c",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Théorique du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Parcours du projet.md",
     "transform-md-loader.js",
     "empty-module.js",
     "components/PageGate.jsx",
     "contexts/ActiveJourneyContext.tsx",
     "contexts",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Parcours de déroulement du projet.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Parcours du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Tech.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Non Tech.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Explication Theorique du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Explication Technique du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3/Team members/List of members.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3/PARCOURS DU HACKATHON DE L'ÉQUIPE 3.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 6/Parcours, défis et évolution d’un projet né du terrain.md",
@@ -227,7 +228,6 @@
     "content/collaborators/Facilitators",
     "content/events/accra/UrbanLink/progress-update.md",
     "content/events/accra/UrbanLink/index.md",
-    "content/events/accra/UrbanLink",
     "content/collaborators/communities-of-practice/regenesis-wada.md",
     "content/collaborators/communities-of-practice/practice-networks.md",
     "content/collaborators/communities-of-practice/copr-value-prop.md",
