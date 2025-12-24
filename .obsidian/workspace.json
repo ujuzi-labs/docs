@@ -197,6 +197,7 @@
   },
   "active": "103e101048551643",
   "lastOpenFiles": [
+    "transform-md-loader.js",
     "empty-module.js",
     "components/PageGate.jsx",
     "contexts/ActiveJourneyContext.tsx",
@@ -227,7 +228,6 @@
     "content/events/accra/UrbanLink/progress-update.md",
     "content/events/accra/UrbanLink/index.md",
     "content/events/accra/UrbanLink",
-    "content/events/accra",
     "content/collaborators/communities-of-practice/regenesis-wada.md",
     "content/collaborators/communities-of-practice/practice-networks.md",
     "content/collaborators/communities-of-practice/copr-value-prop.md",

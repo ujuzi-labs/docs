@@ -7,21 +7,25 @@ const withNextra = nextra({
   },
 })
 
-// Custom webpack plugin to transform MDX files and remove base64 images
-class TransformMdxPlugin {
+// Custom webpack plugin to transform MDX/MD files and remove base64 images
+class RemoveBase64ImagesPlugin {
   apply(compiler) {
-    compiler.hooks.normalModuleFactory.tap('TransformMdxPlugin', (nmf) => {
-      nmf.hooks.beforeResolve.tap('TransformMdxPlugin', (data) => {
-        // This will be handled by the loader
-        return
-      })
-    })
-    
-    compiler.hooks.compilation.tap('TransformMdxPlugin', (compilation) => {
-      compilation.hooks.buildModule.tap('TransformMdxPlugin', (module) => {
-        if (module.resource && /\.mdx?$/.test(module.resource)) {
-          // Transform the source to remove base64 images
-          if (module._source && module._source._value) {
+    compiler.hooks.compilation.tap('RemoveBase64ImagesPlugin', (compilation) => {
+      compilation.hooks.processAssets.tap(
+        {
+          name: 'RemoveBase64ImagesPlugin',
+          stage: compilation.PROCESS_ASSETS_STAGE_ADDITIONS,
+        },
+        (assets) => {
+          // This approach won't work for source files, need different hook
+        }
+      )
+      
+      // Intercept module sources during build
+      compilation.hooks.buildModule.tap('RemoveBase64ImagesPlugin', (module) => {
+        if (module.resource && /\.(mdx?|md)$/.test(module.resource)) {
+          // Transform source if available
+          if (module._source && typeof module._source._value === 'string') {
             module._source._value = module._source._value.replace(
               /!\[\]\(data:image\/[^)]+\)/g,
               '![Image base64 non supportée]()'
@@ -57,8 +61,9 @@ export default withNextra({
         resourceRegExp: /^private-next-root-dir\/public\/.*\.(png|jpg|jpeg|svg|gif)$/,
       })
     )
-    // Transform MDX files to remove base64 images
-    config.plugins.push(new TransformMdxPlugin())
+    
+    // Transform MDX/MD files to remove base64 images
+    config.plugins.push(new RemoveBase64ImagesPlugin())
     
     return config
   },
