@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Organisation des membres d'équipe du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1/Team members/List of members.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organisation des membres d'équipe du projet"
+              "title": "List of members"
             }
           }
         ]
@@ -180,12 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103e101048551643",
+  "active": "f478907794cc0251",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Organisation des membres d'équipe du projet.md",
     "empty-module.js",
     "remove-base64-loader.js",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Team members/List of members.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Organisation des membres d'équipe du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Non Tech.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Tech.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Partie Non Technique expliquée.md",
@@ -213,7 +213,6 @@
     "conflict-files-obsidian-git.md",
     "content/collaborators/participants/developers.md",
     "content/collaborators/Facilitators/enacting-contract.md",
-    "content/collaborators/participants",
     "content/events/accra/UrbanLink/progress-update.md",
     "content/events/accra/UrbanLink/index.md",
     "content/collaborators/communities-of-practice/regenesis-wada.md",
