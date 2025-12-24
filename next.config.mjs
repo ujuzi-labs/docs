@@ -1,9 +1,13 @@
 import nextra from 'nextra'
+import remarkRemoveBase64Images from './remark-remove-base64-images.js'
 
 const withNextra = nextra({
   latex: true,
   search: {
     codeblocks: false,
+  },
+  mdxOptions: {
+    remarkPlugins: [remarkRemoveBase64Images],
   },
 })
 
