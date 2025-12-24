@@ -1,4 +1,9 @@
 import nextra from 'nextra'
+import { fileURLToPath } from 'url'
+import { dirname, resolve } from 'path'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 const withNextra = nextra({
   latex: true,
@@ -73,6 +78,24 @@ export default withNextra({
       new webpack.IgnorePlugin({
         resourceRegExp: /^private-next-root-dir\/public\/.*\.(png|jpg|jpeg|svg|gif)$/,
       })
+    )
+    
+    // Ignore data:image URLs completely - they are treated as module imports
+    config.plugins.push(
+      new webpack.IgnorePlugin({
+        resourceRegExp: /^data:image\/.*;base64,/,
+      })
+    )
+    
+    // Replace data:image imports with empty module
+    config.plugins.push(
+      new webpack.NormalModuleReplacementPlugin(
+        /^data:image\/.*;base64,/,
+        (resource) => {
+          // Replace with empty module
+          resource.request = resolve(__dirname, 'empty-module.js')
+        }
+      )
     )
     
     // Transform MDX/MD files to remove base64 images
