@@ -1,4 +1,4 @@
-![timelining_input_1.png](/timelining_input_1.png)
+*[timelining_input_1.png - Image non disponible: /timelining_input_1.png]*
 
 # Overview
 

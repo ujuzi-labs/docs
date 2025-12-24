@@ -71,5 +71,8 @@ async function main() {
   console.log(`Processed ${processedCount} file(s)`)
 }
 
-main().catch(console.error)
+main().catch((error) => {
+  console.error('Fatal error:', error)
+  process.exit(1)
+})
 

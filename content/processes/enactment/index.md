@@ -10,7 +10,7 @@ asIndexPage: true
 
 ---
 
-![enacting](/enacting.png)
+*[enacting - Image non disponible: /enacting.png]*
 
 what is the potential of unfolding the [potential](/glossary/place-sourced%20potential) of a place through its community of [practice](/glossary/Practice.md)?
 
@@ -64,4 +64,4 @@ These calls are meant to prime participants to participate more fully, with more
 
 It's important that through these calls we grow a kind of energy field - a social container - that will support us in our work going forwards. 
 
-![learning-arcs.png](/learning-arcs.png)
+*[learning-arcs.png - Image non disponible: /learning-arcs.png]*
