@@ -197,6 +197,7 @@
   },
   "active": "103e101048551643",
   "lastOpenFiles": [
+    "components/PageGate.jsx",
     "contexts/ActiveJourneyContext.tsx",
     "contexts",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Parcours de déroulement du projet.md",
@@ -227,7 +228,6 @@
     "content/events/accra/UrbanLink",
     "content/events/accra",
     "content/events",
-    "content/collaborators/partners/external-evaluators.mdx",
     "content/collaborators/communities-of-practice/regenesis-wada.md",
     "content/collaborators/communities-of-practice/practice-networks.md",
     "content/collaborators/communities-of-practice/copr-value-prop.md",
