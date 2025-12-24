@@ -1,13 +1,9 @@
 import nextra from 'nextra'
-import remarkRemoveBase64Images from './remark-remove-base64-images.js'
 
 const withNextra = nextra({
   latex: true,
   search: {
     codeblocks: false,
-  },
-  mdxOptions: {
-    remarkPlugins: [remarkRemoveBase64Images],
   },
 })
 
@@ -15,25 +11,38 @@ const withNextra = nextra({
 class RemoveBase64ImagesPlugin {
   apply(compiler) {
     compiler.hooks.compilation.tap('RemoveBase64ImagesPlugin', (compilation) => {
-      compilation.hooks.processAssets.tap(
-        {
-          name: 'RemoveBase64ImagesPlugin',
-          stage: compilation.PROCESS_ASSETS_STAGE_ADDITIONS,
-        },
-        (assets) => {
-          // This approach won't work for source files, need different hook
-        }
-      )
-      
-      // Intercept module sources during build
+      // Intercept modules during the build process
       compilation.hooks.buildModule.tap('RemoveBase64ImagesPlugin', (module) => {
+        // Only process MDX/MD files
         if (module.resource && /\.(mdx?|md)$/.test(module.resource)) {
-          // Transform source if available
-          if (module._source && typeof module._source._value === 'string') {
-            module._source._value = module._source._value.replace(
-              /!\[\]\(data:image\/[^)]+\)/g,
-              '![Image base64 non supportée]()'
-            )
+          // Transform the source content if available
+          try {
+            if (module._source) {
+              // Try to get the source content
+              let source = null
+              if (typeof module._source.source === 'function') {
+                source = module._source.source()
+              } else if (module._source._value !== undefined) {
+                source = module._source._value
+              }
+              
+              if (typeof source === 'string' && source.includes('data:image')) {
+                // Remove base64 images - match both ![](data:image...) and ![alt](data:image...)
+                const transformed = source.replace(
+                  /!\[([^\]]*)\]\(data:image\/[^)]+\)/g,
+                  '![$1](data:image/png;base64,)'
+                )
+                
+                // Update the source
+                if (module._source._value !== undefined) {
+                  module._source._value = transformed
+                } else if (typeof module._source.update === 'function') {
+                  module._source.update(transformed)
+                }
+              }
+            }
+          } catch (e) {
+            // Silently fail if source is not accessible - this is expected for some modules
           }
         }
       })
