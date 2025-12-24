@@ -4,7 +4,6 @@ import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import '@/styles.css';
 import { ReactNode } from 'react';
-import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
 import { FaXTwitter } from "react-icons/fa6";
@@ -45,8 +44,8 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 const navbar = (
   <Navbar
     logo={
-      <div>
-        <Image src="/prisma-name-text-dark.svg" width={140} height={60} alt="Prisma Logo" />
+      <div className="text-xl font-bold">
+        Prisma
       </div>
     }
     logoLink={"https://www.prisma.events/"}
