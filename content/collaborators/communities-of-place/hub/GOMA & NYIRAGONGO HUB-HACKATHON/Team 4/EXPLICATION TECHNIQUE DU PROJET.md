@@ -1,2 +1,3 @@
 Pour une vue d’ensemble détaillée de l’implémentation technique de **Wenze**, référez-vous au fichier **README** du dépôt GitHub : [https://github.com/Benedicto-m/wenze](https://github.com/Benedicto-m/wenze). 
+
 Ce document fournit toutes les informations nécessaires sur l’architecture fonctionnelle, les flux de données et les technologies utilisées, permettant de comprendre comment la plateforme opère et garantit sécurité, fiabilité et performance.
