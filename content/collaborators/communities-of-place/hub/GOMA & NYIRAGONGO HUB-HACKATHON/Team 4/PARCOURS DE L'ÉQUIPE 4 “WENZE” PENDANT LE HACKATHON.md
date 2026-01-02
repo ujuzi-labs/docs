@@ -1,4 +1,4 @@
-**
+
 ## 0. Introduction
 
 Notre projet n’est pas le fruit du hasard. Il est l’aboutissement d’un parcours progressif, marqué par des étapes clés, des décisions collectives et une organisation structurée.
@@ -11,6 +11,7 @@ Ce projet s’inscrit dans le cadre du hackathon organisé par WADA, en prépara
 ### I.1. Participation au tout premier Call de tous les hackers: 10.11.2025
 
 L’histoire de ce projet commence après un certain lundi 10 novembre 2025, lorsque les Hubs de Goma et Nyiragongo ont procédé au lancement officiel du hackathon local organisé dans la ville de Goma et le territoire de Nyiragongo. Tous les participants ont pris part à un appel en ligne de lancement, au cours duquel nous avons compris l’essentiel du hackathon : pourquoi il est organisé, comment y participer efficacement, le choix des problèmes, les exigences concernant les solutions à intégrer dans les applications, etc.
+
 Après cette réunion, les facilitateurs nous ont permis de commencer à constituer les équipes, autorisant les participants à se regrouper afin que chaque équipe puisse travailler sur une solution spécifique selon les exigences du hackathon. C’est ainsi que notre parcours vers la réalisation de ce projet aujourd’hui connu sous le nom de Wenze a véritablement commencé.
 
 ### I.2. Formation de l’équipe : Du 10 au 15 novembre 2025
@@ -31,7 +32,10 @@ La formation de notre équipe, dénommée “Team 4”, dans le hackathon organi
 Afin de renforcer la dynamique du groupe, deux autres participants inscrits au hackathon ont rejoint l’équipe :
 
 - Gloire Shukuru
+    
 - Amida Mussa  
+      
+    
 
 Cependant, un imprévu est survenu peu après : Amida Mussa a dû se rendre en urgence au Rwanda, annonçant son indisponibilité seulement deux jours après la formation de l’équipe. Pour maintenir l’équilibre et renforcer les capacités du groupe, nous avons alors intégré Monsieur Tacite Wakilongo.
 
@@ -53,22 +57,20 @@ L’objectif principal de ce groupe était de centraliser les échanges, planifi
 
 Le groupe a été créé le 11 novembre 2025, soit un jour après l’appel de lancement officiel.
 
-Lien du groupe WhatsApp :  
-[https://chat.whatsapp.com/LnBQKikPl6K3OfInPmQSOV](https://chat.whatsapp.com/LnBQKikPl6K3OfInPmQSOV)
-
-Ainsi, au cours des premières discussions au sein du groupe WhatsApp, une question centrale s’est rapidement imposée : “Sur quel problème allons-nous travailler ?”
+[Lien du groupe WhatsApp  
+](https://chat.whatsapp.com/LnBQKikPl6K3OfInPmQSOV)Ainsi, au cours des premières discussions au sein du groupe WhatsApp, une question centrale s’est rapidement imposée : “Sur quel problème allons-nous travailler ?”
 
 La réflexion autour de la problématique à adresser s’est principalement construite à travers des échanges approfondis dans le groupe. Ces discussions ont permis d’analyser plusieurs enjeux locaux, de confronter les points de vue des membres et d’identifier les besoins réels de la population.
 
 Dans ce cadre, l’un des membres du projet, Olivier Mwatsimulamo, a proposé une idée majeure : la nécessité, dans la ville de Goma, d’un marché e-commerce intégrant la blockchain Cardano, afin de contribuer à la résolution de certaines difficultés rencontrées par la population locale.  
 Cette proposition a suscité un vif intérêt et a servi de point de départ à des réflexions plus structurées.
 
-Lien vers l’enregistrement des échanges et discussions initiales :  
-[https://drive.google.com/file/d/1-koea4NYFpNrZ5-PtdEbDc0IyS5YjLq7/view?usp=drive_link](https://drive.google.com/file/d/1-koea4NYFpNrZ5-PtdEbDc0IyS5YjLq7/view?usp=drive_link)
-
-Ainsi, le projet ne s’est pas limité à de simples échanges textuels. Les discussions se sont poursuivies lors d’un appel collectif, permettant d’approfondir la vision du projet, suivi d’enquêtes menées auprès de bénéficiaires potentiels afin de valider la pertinence de la solution proposée.
+[Lien vers l’enregistrement des échanges et discussions initiales  
+](https://drive.google.com/file/d/1-koea4NYFpNrZ5-PtdEbDc0IyS5YjLq7/view?usp=drive_link)Ainsi, le projet ne s’est pas limité à de simples échanges textuels. Les discussions se sont poursuivies lors d’un appel collectif, permettant d’approfondir la vision du projet, suivi d’enquêtes menées auprès de bénéficiaires potentiels afin de valider la pertinence de la solution proposée.
 
 Premier appel des membres de l’équipe du projet : 12 novembre 2025
+
+### Au cours de ce call nous avons discuté de 2 grands points: 
 
 ### Point 1 : Confirmation de la problématique et validation de la proposition de projet
 
@@ -342,7 +344,18 @@ Cet appel a constitué une étape importante pour recueillir des feedbacks prati
 
 Après cet appel,  les développeurs continuent de coder et optimiser l’App selon les points de vues des membres de l’équipe, pour s’assurer que le projet est en train de suivre les réalités locales, et les vrais besoins des utilisateurs.
 
+  
+  
+  
+  
+  
+  
+  
+  
+
 Test II: 24/12/2025
+
+  
 
 Ce test a été réalisé avec la participation des membres de la Team 4, dans le but d’identifier les optimisations nécessaires et de s’assurer que le projet constitue un MVP (Minimum Viable Product) présentable.  
 L’objectif principal était de vérifier que l’ensemble des fonctionnalités clés est opérationnel, y compris la logique des WZP, ainsi que tous les éléments essentiels devant fonctionner avant la présentation du projet aux autres équipes du hackathon.
@@ -371,12 +384,12 @@ Date : 2 janvier 2026
 
   
 
-|   |   |   |
-|---|---|---|
-|Activités|Personnes|Preuve|
-|Préparation vidéo demandé par WADA|-Tacite et Boaz||
-|Preparation vidéo expliquant le projet|Olivier et Bénédiction||
-|Finalisation toutes les documentations|Martin et Baudoin||
+|   |   |
+|---|---|
+|Activités|Personnes en charge|
+|Préparation vidéo demandé par WADA|-Tacite et Boaz|
+|Preparation vidéo expliquant le projet|Olivier et Bénédiction|
+|Finalisation toutes les documentations|Martin et Baudoin|
 
   
 
@@ -415,11 +428,6 @@ Lien vers le post sur le Cardano Forum :
 - [Lien vercel vers le prototype du projet](https://wenze-beta.vercel.app/)
     
 - Vidéo explicative du contexte du projet requise par WADA
-    
-
-  
-
--   
     
 
   
