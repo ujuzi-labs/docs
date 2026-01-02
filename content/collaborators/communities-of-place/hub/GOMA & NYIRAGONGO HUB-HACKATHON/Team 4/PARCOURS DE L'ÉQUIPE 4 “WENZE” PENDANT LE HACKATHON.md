@@ -55,6 +55,7 @@ Dans ce cadre, l’un des membres du projet, Olivier Mwatsimulamo, a proposé un
 Cette proposition a suscité un vif intérêt et a servi de point de départ à des réflexions plus structurées.
 
 [Lien vers l’enregistrement des échanges et discussions initiales  ](https://drive.google.com/file/d/1-koea4NYFpNrZ5-PtdEbDc0IyS5YjLq7/view?usp=drive_link)
+
 Ainsi, le projet ne s’est pas limité à de simples échanges textuels. Les discussions se sont poursuivies lors d’un appel collectif, permettant d’approfondir la vision du projet, suivi d’enquêtes menées auprès de bénéficiaires potentiels afin de valider la pertinence de la solution proposée.
 
 Premier appel des membres de l’équipe du projet : 12 novembre 2025
