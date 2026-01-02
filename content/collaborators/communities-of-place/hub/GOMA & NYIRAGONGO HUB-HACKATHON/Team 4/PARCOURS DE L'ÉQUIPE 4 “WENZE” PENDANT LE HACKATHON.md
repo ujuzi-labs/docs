@@ -251,10 +251,6 @@ Cependant, l’un des éléments les plus marquants a été de constater qu’un
 Au cours de cette rencontre, plusieurs questions ont été posées par d’autres participants et par les facilitateurs concernant notre solution et l’équipe du projet y a répondu de manière claire et convaincante, ce qui a suscité un intérêt et une appréciation positive de notre idée.
 
 [Lien vers la présentation d’Olivier Mwatsimulamo, présentateur du projet lors du meetup](https://drive.google.com/file/d/1Y7Uk2abii-rN0CH6obfW6hixcKMqWI6t/view?usp=drive_link)
-
-  
-  
-
 ### II.2. Définition des stacks et installation des outils nécessaires pour le développement du projet: Du 23 au 29 Novembre 2025
 
 II.2.1. Choix des stacks: Du 23 au 26 Novembre 2025
