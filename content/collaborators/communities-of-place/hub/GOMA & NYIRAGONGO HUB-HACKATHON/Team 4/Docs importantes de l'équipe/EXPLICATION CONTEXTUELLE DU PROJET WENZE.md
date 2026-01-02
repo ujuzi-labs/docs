@@ -253,7 +253,7 @@ L’objectif de Wanze est de créer un cadre de confiance partagé entre ces act
 
 - Équipe de développement spécialisée : Wenze est porté par 6 personnes avec des compétences variées dont: 1 développeur Full stack (Blockchain, frontend et backend (Web2)), 1 développeur frontend et backend combinés, et un développeur des logiciels et gestionnaire des bases des données, ces développeurs sont accompagnés de 3 membres expérimentés dans l’écosystème Cardano depuis 2020, en contact permanent avec les utilisateurs locaux.
     
-- Transactions ADA & FIA simplifiées : Les utilisateurs peuvent acheter et échanger en ADA et Francs Congolais via un bouton dédié dans l’application. La conversion est assurée par une application partenaire et deux échangeurs locaux fiables (Yann Exchange et Jules).
+- Transactions ADA & FC (Francs Congolais) simplifiées : Les utilisateurs peuvent acheter et échanger en ADA et Francs Congolais via un bouton dédié dans l’application. La conversion est assurée par une application partenaire et deux échangeurs locaux fiables (Yann Exchange et Jules).
     
 - Balise et MVP déjà opérationnels : Une balise est déjà intégrée dans le MVP  WENZE permettant la conversion sécurisée ADA ↔ FIA et le suivi des transactions.
     
