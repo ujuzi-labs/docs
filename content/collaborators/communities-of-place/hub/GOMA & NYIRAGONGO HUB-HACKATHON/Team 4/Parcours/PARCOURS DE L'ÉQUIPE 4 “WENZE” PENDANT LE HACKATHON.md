@@ -1,4 +1,5 @@
 **
+
 ## 0. Introduction
 
 Notre projet n’est pas le fruit du hasard. Il est l’aboutissement d’un parcours progressif, marqué par des étapes clés, des décisions collectives et une organisation structurée.
@@ -34,7 +35,10 @@ La formation de notre équipe, dénommée “Team 4”, dans le hackathon organi
 Afin de renforcer la dynamique du groupe, deux autres participants inscrits au hackathon ont rejoint l’équipe :
 
 - Gloire Shukuru
+    
 - Amida Mussa  
+      
+    
 
 Cependant, un imprévu est survenu peu après : Amida Mussa a dû se rendre en urgence au Rwanda, annonçant son indisponibilité seulement deux jours après la formation de l’équipe. Pour maintenir l’équilibre et renforcer les capacités du groupe, nous avons alors intégré Monsieur Tacite Wakilongo.
 
