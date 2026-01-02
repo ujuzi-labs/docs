@@ -89,6 +89,7 @@ B. Équipe de développement
 Sur la base des compétences techniques démontrées, quatre membres se sont engagés activement dans le développement du projet :
 
 1. Benedicto Mirindi – Développeur Fullstack
+
 Rôles 
 - Gestion du dépôt GitHub du projet
 - Création du repository    
@@ -96,6 +97,7 @@ Rôles
 - Contribution au développement frontend et backend
 
 2. Olivier Mwatsimulamo – Développeur Blockchain Junior & Frontend 
+
 Rôles 
 - Mise à disposition des ressources blockchain (Blockfrost API, Mesh SDK, Lucid, Aiken)
 - Création et gestion des wallets preprod
@@ -103,17 +105,24 @@ Rôles
 - Intégration des smart contracts dans l’application
 - Contributions au développement Frontend et backend
 
-3. Tacite Wakilongo – Développeur Frontend
+3. Tacite Wakilongo – Développeur Frontend, Designer UI, UX
+
 Rôles 
 - Contribution à la conception de l’interface utilisateur (UI)
 - Amélioration de l’expérience utilisateur
-- Gloire Shukuru – Développeur Backend
+- Contribution lors de la création des designs slides et vidéos
+
+4. Gloire Shukuru – Développeur Backend
+
+Rôles 
 - Contribution au choix des stacks technologiques
 - Participation au développement côté React et logique backend
 
 C. Équipe Recherche et Tests
+
 Cette équipe, composée de deux membres, a joué un rôle clé dans la pertinence et la validation du projet :
 1. Boaz Bandu Balume – Recherche & Coordination
+
 Rôles 
 - Réalisation de recherches approfondies sur la problématique ciblée
 - Appui à la coordination du projet aux côtés du Team Lead
@@ -121,6 +130,7 @@ Rôles
 - Documentation du projet
 
 2. Baudoin Muvunga – Tests & Collecte de données
+
 Rôles 
 - Responsable des tests de l’application
 - Collecte de données sur le terrain via des formulaires
@@ -300,9 +310,8 @@ II.3.4. Activités finales du processus du projet
 | Preparation vidéo expliquant le projet | Olivier et Bénédiction | 2.1.2026 |
 | Finalisation toutes les documentations | Martin et Baudoin      | 2.1.2026 |
 
-## NB : Ces activités finales du processus du projet marquent la fin de notre parcours au niveau local à Goma.
-
-## Toutefois, nous continuons à améliorer le projet, car pour nous il ne se limite pas à ce hackathon. Nous portons plutôt la vision de le mettre en œuvre dans la vie réelle, puisqu’il répond à un besoin réel et constitue une idée tout à fait faisable.
+NB : Ces activités finales du processus du projet marquent la fin de notre parcours au niveau local à Goma.
+Toutefois, nous continuons à améliorer le projet, car pour nous il ne se limite pas à ce hackathon. Nous portons plutôt la vision de le mettre en œuvre dans la vie réelle, puisqu’il répond à un besoin réel et constitue une idée tout à fait faisable.
 
 ## II.3.5. Grande limitation rencontrée lors du développement
 
