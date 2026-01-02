@@ -1,4 +1,4 @@
-**
+
 ## 0. Introduction
 
 Notre projet n’est pas le fruit du hasard. Il est l’aboutissement d’un parcours progressif, marqué par des étapes clés, des décisions collectives et une organisation structurée.
@@ -7,6 +7,7 @@ Ce projet s’inscrit dans le cadre du hackathon organisé par WADA, en prépara
 
 1. ## BRÈVE HISTORIQUE DE L’ORGANISATION DE L'ÉQUIPE ET ORIGINE DU PROJET
     
+
 ### I.1. Participation au tout premier Call de tous les hackers: 10.11.2025
 
 L’histoire de ce projet commence après un certain lundi 10 novembre 2025, lorsque les Hubs de Goma et Nyiragongo ont procédé au lancement officiel du hackathon local organisé dans la ville de Goma et le territoire de Nyiragongo. Tous les participants ont pris part à un appel en ligne de lancement, au cours duquel nous avons compris l’essentiel du hackathon : pourquoi il est organisé, comment y participer efficacement, le choix des problèmes, les exigences concernant les solutions à intégrer dans les applications, etc.
@@ -91,49 +92,94 @@ Chaque membre a partagé ses compétences, ses expériences et ses disponibilit�
  À l’issue de ces échanges, les rôles ont été répartis comme suit :
 
 1. Leadership de l’équipe
+    
+
 Martin Musagara – Team Lead  
 Membre de l’écosystème Cardano depuis 2021, Martin a été choisi à l’unanimité en raison de :
-- ses compétences avérées en leadership,
-- son expérience dans l’organisation et la coordination de meetups et événements Web3/Cardano,
-- sa capacité à assurer le suivi et la cohérence du travail collectif.
-Son rôle consiste à veiller à la bonne progression du projet, au respect des délais définis par la coordination locale, et à s’assurer que chaque membre accomplit efficacement ses responsabilités. 
 
-1. Équipe de développement
+- ses compétences avérées en leadership,
+    
+- son expérience dans l’organisation et la coordination de meetups et événements Web3/Cardano,
+    
+- sa capacité à assurer le suivi et la cohérence du travail collectif.
+    
+
+Son rôle consiste à veiller à la bonne progression du projet, au respect des délais définis par la coordination locale, et à s’assurer que chaque membre accomplit efficacement ses responsabilités.
+
+  
+  
+
+2. Équipe de développement
+    
 
 Sur la base des compétences techniques démontrées, quatre membres se sont engagés activement dans le développement du projet :
 
--Benedicto Mirindi – Développeur Fullstack
+- Benedicto Mirindi – Développeur Fullstack
+    
 
 - Gestion du dépôt GitHub du projet
+    
 - Création du repository
+    
 - Gestion des déploiements, pull requests et merges
+    
 - Contribution au développement frontend et backend
+    
 
--Olivier Mwatsimulamo – Développeur Blockchain Junior & Frontend
+- Olivier Mwatsimulamo – Développeur Blockchain Junior & Frontend
+    
+
 - Mise à disposition des ressources blockchain (Blockfrost API, Mesh SDK, Lucid, Aiken)
+    
 - Création et gestion des wallets preprod
+    
 - Tests via Cardano Scan preprod et Faucet
+    
 - Intégration des smart contracts dans l’application
+    
 
--Tacite Wakilongo – Développeur Frontend
+- Tacite Wakilongo – Développeur Frontend
+    
+
 - Contribution à la conception de l’interface utilisateur (UI)
+    
 - Amélioration de l’expérience utilisateur
--Gloire Shukuru – Développeur Backend
+    
+
+- Gloire Shukuru – Développeur Backend
+    
+
 - Contribution au choix des stacks technologiques
+    
 - Participation au développement côté React et logique backend
+    
+
 3. Équipe Recherche et Tests
+    
 
 Cette équipe, composée de deux membres, a joué un rôle clé dans la pertinence et la validation du projet :
 
--Boaz Bandu Balume – Recherche & Coordination
+- Boaz Bandu Balume – Recherche & Coordination
+    
+
 - Réalisation de recherches approfondies sur la problématique ciblée
+    
 - Appui à la coordination du projet aux côtés du Team Lead
+    
 - Collecte de données sur le terrain via des formulaires
+    
 - Documentation du projet
--Baudoin Muvunga – Tests & Collecte de données
+    
+
+- Baudoin Muvunga – Tests & Collecte de données
+    
+
 - Responsable des tests de l’application
+    
 - Collecte de données sur le terrain via des formulaires
+    
 - Participation active aux discussions d’amélioration et d’évolution du projet
+    
 
 ## II. PROGRESSION QUOTIDIENNE DES ACTIVITÉS DU PROJET
 
@@ -150,6 +196,7 @@ Ces enquêtes ont été réalisées à travers plusieurs canaux :
 - formulaire d’enquête Google Forms,
     
 - échanges et dialogues physiques avec des potentiels bénéficiaires.
+    
 
 Le formulaire Google Forms a permis à un large public de partager librement ses points de vue, ses attentes et ses difficultés liées au commerce local. Les résultats obtenus ont confirmé de manière claire et effective la pertinence du problème initialement identifié, ainsi que la nécessité d’une solution numérique adaptée.
 
@@ -183,9 +230,13 @@ Les facilitateurs locaux du hackathon ont annoncé l’organisation d’un meetu
 En préparation de cette rencontre, notre équipe a élaboré une présentation sous forme de slides, expliquant :
 
 - le contexte du projet,
+    
 - la problématique identifiée,
+    
 - la solution proposée,
+    
 - ainsi que la vision générale du projet Wenze.
+    
 
 [Lien vers la présentation utilisée lors du meetup  
   
@@ -200,6 +251,10 @@ Cependant, l’un des éléments les plus marquants a été de constater qu’un
 Au cours de cette rencontre, plusieurs questions ont été posées par d’autres participants et par les facilitateurs concernant notre solution et l’équipe du projet y a répondu de manière claire et convaincante, ce qui a suscité un intérêt et une appréciation positive de notre idée.
 
 [Lien vers la présentation d’Olivier Mwatsimulamo, présentateur du projet lors du meetup](https://drive.google.com/file/d/1Y7Uk2abii-rN0CH6obfW6hixcKMqWI6t/view?usp=drive_link)
+
+  
+  
+
 ### II.2. Définition des stacks et installation des outils nécessaires pour le développement du projet: Du 23 au 29 Novembre 2025
 
 II.2.1. Choix des stacks: Du 23 au 26 Novembre 2025
@@ -221,6 +276,8 @@ Ce choix nous permet :
 - des performances optimales, notamment sur mobile,
     
 - et une base solide pour des extensions futures (mobile app, scaling).
+    
+
 ### Backend et blockchain
 
 Pour le backend, nous avons opté pour Supabase, afin d’accélérer le développement tout en gardant une infrastructure fiable (authentification, base de données, temps réel).
@@ -233,6 +290,13 @@ Concernant la blockchain Cardano, nous avons volontairement séparé les respons
     
 
 Cette séparation garantit une architecture claire, sécurisée et adaptée à un contexte réel comme celui de la RDC.
+
+  
+  
+  
+  
+  
+
 ### II.2.2. Installation nécessaires pour le coding: Du 27 au 29 Nov. 2025
 
 |   |   |
@@ -258,7 +322,11 @@ Période : du 30 novembre 2025 à ce jour
 Avant toute chose, il convient de signaler qu’au cours de cette phase, l’un des quatre développeurs initiaux du projet, Monsieur Gloire Shukuru, a annoncé son indisponibilité pour la suite du projet. Cette situation a conduit à une réorganisation de l’équipe, désormais composée de six membres, répartis comme suit :
 
 - Trois développeurs : Benedicto Mirindi, Tacite Wakilongo et Olivier Mwatsimulamo ;  
+      
+    
 - Trois membres non développeurs : Martin Musagara, Boaz Bandu et Baudoin Muvunga
+    
+
 Malgré cette réduction de l’effectif technique, les trois développeurs restants se sont pleinement concentrés sur le développement de l’application, chacun contribuant quotidiennement selon ses compétences et son rôle au sein du projet.
 
 Afin d’assurer la transparence et la traçabilité du travail réalisé, l’ensemble des contributions techniques est documenté dans l’historique des commits du dépôt GitHub du projet, accessible via le lien suivant :  
@@ -268,7 +336,11 @@ Parallèlement au travail de développement, des mises à jour quotidiennes sur 
 
 Il est également important de souligner que le projet est actuellement déployé et testé sur le réseau Cardano testnet (preprod). Ce choix a été fait afin de permettre des tests fonctionnels et techniques en toute sécurité, sans risque de perte de fonds pour les utilisateurs, tout en garantissant une intégration progressive et maîtrisée des fonctionnalités blockchain.
 
+  
+
 II.3.2. Tests et optimisation de l’App
+
+  
 
 Test 1 : Le 19/12/2025
 
@@ -277,7 +349,17 @@ Test 1 : Le 19/12/2025
 Pour cette phase, notre équipe a organisé un premier appel de test, qui a permis à l’ensemble des membres du projet, ainsi qu’à quelques utilisateurs proches (Tech et non-tech) n’étant pas participants au hackathon, de tester l’application et de partager leurs avis, retours et suggestions. ces
 
 Cet appel a constitué une étape importante pour recueillir des feedbacks pratiques, identifier les points d’amélioration et valider certaines fonctionnalités du point de vue des utilisateurs finaux.
+
 Après cet appel,  les développeurs continuent de coder et optimiser l’App selon les points de vues des membres de l’équipe, pour s’assurer que le projet est en train de suivre les réalités locales, et les vrais besoins des utilisateurs.
+
+  
+  
+  
+  
+  
+  
+  
+  
 
 Test II: 24/12/2025
 
@@ -348,7 +430,20 @@ Lien vers le post sur le Cardano Forum :
 ## II.3.6. Ressources
 
 - [Dépot GitHub du projet avec Readme expliquant la partie technique du projet](https://github.com/Benedicto-m/wenze) 
+    
 - [Explication Contextuelle du projet Wenze](https://docs.google.com/document/d/1K3s0313oJBNpJYrEfz9FmWpHwGwTKWyWgtNbZzVc3G0/edit?tab=t.0)
+    
 - [Résultats d'enquêtes effectués auprès des possibles utilisateurs de la solution Wenze](https://docs.google.com/document/d/1kIT1NGG5ogmG3j0v7Ijwh6dx4Lgo9uMf90Bie2P2f0U/edit?tab=t.0#heading=h.4j9flij4lpcz)
+    
 - [Lien vercel vers le prototype du projet](https://wenze-beta.vercel.app/)
+    
 - Vidéo explicative du contexte du projet requise par WADA
+    
+
+  
+
+-   
+    
+
+  
+**
