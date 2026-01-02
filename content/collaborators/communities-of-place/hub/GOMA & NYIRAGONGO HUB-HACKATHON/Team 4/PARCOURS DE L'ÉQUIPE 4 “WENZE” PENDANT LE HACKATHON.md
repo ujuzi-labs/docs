@@ -266,6 +266,7 @@ Malgré cette réduction de l’effectif technique, les trois développeurs rest
 
 Afin d’assurer la transparence et la traçabilité du travail réalisé, l’ensemble des contributions techniques est documenté dans l’historique des commits du dépôt GitHub du projet, accessible via le lien suivant :  
 [Lien vers le repository GitHub](https://github.com/Benedicto-m/wenze) 
+[Historique des commit et contributions](https://github.com/Benedicto-m/wenze/commits/master/)
 
 Parallèlement au travail de développement, des mises à jour quotidiennes sur l’avancement du projet sont régulièrement partagées dans le groupe de l’équipe. Ces mises à jour sont également accessibles à travers un lien de déploiement Vercel, permettant une visualisation en temps réel de l’évolution de l’application et facilitant les retours rapides.
 
