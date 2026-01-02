@@ -274,29 +274,19 @@ Possibilité d’enregistrer sur Cardano et d’obtenir un NFT de recette origin
 8. Livrables
 
 9. MVP fonctionnel : saisie d’ingrédients, génération recette texte + images.
-
 10. Base d’ingrédients locaux et propriétés nutritionnelles.
-
 11. Module IA pour génération de recettes inédites.
-
 12. Intégration Cardano pour certification des recettes.
-
 13. Interface web responsive complète.
-
 14. Documentation technique et guide utilisateur.
 
 Plan de déploiement
 
 1. Phase 1 : Base ingrédients + saisie d’ingrédients.
-
 2. Phase 2 : Génération recettes textuelles + images.
-
 3. Phase 3 : Vidéos courtes et guidage étape par étape.
-
 4. Phase 4 : Intégration Cardano pour certification NFT.
-
 5. Phase 5 : Test utilisateur terrain (zones urbaines et rurales)
-
 6. Phase 6 : Lancement public + marketplace NFT de recettes.
 
 7. Objectifs de réussite
