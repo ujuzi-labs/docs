@@ -332,12 +332,12 @@ Considérant la force collaborative de l’écosystème Cardano, nous avons alor
 Lien vers le post sur le Cardano Forum :  
 [https://forum.cardano.org/t/seeking-guidance-escrow-integration-issue-in-aiken-lucid-plutus-v3-on-preprod/151993](https://forum.cardano.org/t/seeking-guidance-escrow-integration-issue-in-aiken-lucid-plutus-v3-on-preprod/151993)
 
-À ce jour, le travail sur le mécanisme d’escrow se poursuit activement. Bien que ce problème n’ait pas encore été entièrement résolu au moment de la livraison des livrables demandés par les facilitateurs locaux, nous restons confiants quant à sa résolution dans le cadre de notre développement continu, avant le Cardano Africa Tech Summit (CATS) prévu en février 2026 au Kenya.
+À ce jour, le travail sur le mécanisme d’escrow se poursuit activement. Bien que ce problème n’ait pas encore été entièrement résolu au moment de la livraison des livrables demandés par les facilitateurs locaux, [nous restons confiants quant à sa résolution dans le cadre de notre développement continu](https://forum.cardano.org/t/wenze-a-local-marketplace-built-on-cardano-to-drive-real-adoption-in-goma-drc/152334), avant le Cardano Africa Tech Summit (CATS) prévu en février 2026 au Kenya.
 ## Liens importants du projet
 
 - [Dépot GitHub du projet avec Readme expliquant la partie technique du projet](https://github.com/Benedicto-m/wenze) 
 - [Explication Contextuelle du projet Wenze](https://docs.google.com/document/d/1K3s0313oJBNpJYrEfz9FmWpHwGwTKWyWgtNbZzVc3G0/edit?tab=t.0)
 - [Résultats d'enquêtes effectués auprès des possibles utilisateurs de la solution Wenze](https://docs.google.com/document/d/1kIT1NGG5ogmG3j0v7Ijwh6dx4Lgo9uMf90Bie2P2f0U/edit?tab=t.0#heading=h.4j9flij4lpcz)
 - [Lien vercel vers le prototype du projet](https://wenze-beta.vercel.app/)
-- Vidéo explicative du contexte du projet requise par WADA
+- [Vidéo explicative du contexte du projet requise par WADA](https://www.loom.com/share/714ce2e02b584f708f7a2f0e721136c1)
 
