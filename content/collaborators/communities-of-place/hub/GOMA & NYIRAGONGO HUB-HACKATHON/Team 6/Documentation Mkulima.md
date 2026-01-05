@@ -1,9 +1,6 @@
-**
-
 MkulimaChain
 
 “Plateforme Blockchain pour l'Autonomisation Agricole en RDC”
-
 #  1. Vue d'ensemble
 
 Innovation :MkulimaChain est une infrastructure agritech décentralisée conçue pour transformer la chaîne de valeur agricole en République Démocratique du Congo.  
