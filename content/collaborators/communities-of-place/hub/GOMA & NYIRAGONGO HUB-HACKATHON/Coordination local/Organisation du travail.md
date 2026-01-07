@@ -37,6 +37,8 @@ Les rôles et responsabilités ont été définis comme suit :
 Afin d’assurer un suivi efficace des équipes participantes, certains membres de la coordination ont été affectés à des équipes spécifiques.  
 Chaque membre était chargé de produire des **rapports réguliers** sur l’évolution de son équipe, ce qui a permis une meilleure répartition des tâches et un suivi structuré de la progression des projets.
 
+[Trouvez ici un google sheet que nous nous sommes servis](https://docs.google.com/spreadsheets/d/1Fwifld4lkZ9lmTlbMinnNfc6EwoT7hvXhTQBI5Qo3_k/edit?gid=0#gid=0)
+
 ---
 
 ## 4. Communication et Canaux d’Échange
