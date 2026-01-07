@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/PARCOURS DE L'ÉQUIPE 4 “WENZE” PENDANT LE HACKATHON.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PARCOURS DE L'ÉQUIPE 4 “WENZE” PENDANT LE HACKATHON"
+              "title": "Untitled"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "00ced78a3f147668",
   "lastOpenFiles": [
-    "OBSIDIAN_SETUP.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/PARCOURS DE L'ÉQUIPE 4 “WENZE” PENDANT LE HACKATHON.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Untitled.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Team members/List of members.md",
+    "OBSIDIAN_SETUP.md",
     "README.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/EXPLICATION CONTEXTUELLE DU PROJET WENZE.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/EXPLICATION TECHNIQUE DU PROJET.md",
@@ -205,7 +207,6 @@
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Explication Theorique du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 8-PROOFCHAIN/Team members/List of members.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1-KENDA/Journal de Bord du Hackathon.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Team members/List of members.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 1-KENDA/Team members/List of members.md",
     "scripts/prepare-content.js",
     "scripts/remove-missing-images.js",
@@ -220,7 +221,6 @@
     "remark-remove-base64-images.js",
     "transform-md-loader.js",
     "components/PageGate.jsx",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3-ARDHI-Chain/Team members/List of members.md",
     "public/ecosystemic-partnerships.svg",
     "public/communicating-al.svg",
     "public/action-learning.svg",
