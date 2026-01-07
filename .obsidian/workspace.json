@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Progression.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Liste des membres de l'équipe du projet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progression"
+              "title": "Liste des membres de l'équipe du projet"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103e101048551643",
+  "active": "00ced78a3f147668",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Documentation détaillée du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Progression.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Liste des membres de l'équipe du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Documentation détaillée du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/PARCOURS DE L'ÉQUIPE 4 “WENZE” PENDANT LE HACKATHON.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 2-PROOF OF CAPACITY/Team members/List of members.md",
     "OBSIDIAN_SETUP.md",
@@ -217,7 +218,6 @@
     "remove-base64-loader.js",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Non Tech.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Documentation officielle Wenze/Documentation Tech.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Project documentation/Partie Non Technique expliquée.md",
     "remark-remove-base64-images.js",
     "transform-md-loader.js",
     "components/PageGate.jsx",
