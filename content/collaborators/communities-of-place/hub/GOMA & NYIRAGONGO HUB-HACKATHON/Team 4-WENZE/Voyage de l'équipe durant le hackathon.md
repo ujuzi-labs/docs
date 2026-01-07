@@ -1,6 +1,4 @@
 **
-# PARCOURS DE L'ÉQUIPE 4 “PROJET WENZE” PENDANT LE HACKATHON
-
 ## 0. Introduction
 
 Notre projet n’est pas le fruit du hasard. Il est l’aboutissement d’un parcours progressif, marqué par des étapes clés, des décisions collectives et une organisation structurée.
