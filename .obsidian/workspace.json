@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/Explication contextuelle du projet.md",
+                "file": "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7-UMOJAFUND/Team members/Liste des membres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explication contextuelle du projet"
+              "title": "Liste des membres"
             }
           }
         ]
@@ -180,10 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103e101048551643",
+  "active": "00ced78a3f147668",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7-UMOJAFUND/Description Théorique et technique du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7-UMOJAFUND/Team members/Liste des membres.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 7-UMOJAFUND/Team members/List of members.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/Voyage de l'équipe durant le hackathon.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/Explication contextuelle du projet.md",
+    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/Un projet né du terrain.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4-WENZE/Explication Technique du projet Wenze.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3-ARDHI-Chain/Liste des membres d'équipe du projet.md",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 3-ARDHI-Chain/Team members/List of members.md",
@@ -208,10 +212,6 @@
     "public/ekow.jpg",
     "public/abdul.jpg",
     "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Docs importantes de l'équipe/EXPLICATION TECHNIQUE DU PROJET.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Docs importantes de l'équipe/PARCOURS DE L'ÉQUIPE 4 “WENZE” PENDANT LE HACKATHON.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Parcours du projet.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Organisation des membres d'équipe du projet.md",
-    "content/collaborators/communities-of-place/hub/GOMA & NYIRAGONGO HUB-HACKATHON/Team 4/Explication Theorique du projet.md",
     "scripts/prepare-content.js",
     "scripts/remove-missing-images.js",
     "scripts/remove-base64-images.js",

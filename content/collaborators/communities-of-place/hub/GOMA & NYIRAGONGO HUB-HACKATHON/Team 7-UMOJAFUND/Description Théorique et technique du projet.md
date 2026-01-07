@@ -186,26 +186,17 @@ L’application communique avec Cardano via :
 Acteur : Porteur de projet
 
 - L’utilisateur crée un compte
-    
 - Remplit le formulaire du projet
-    
 - Soumet à l’approbation
-    
 - Le projet est publié avec une adresse smart contract
-    
-
 ### ✔️ UC2 : Contribuer à un projet
 
 Acteur : Contributeur
 
 - L’utilisateur connecte son wallet/ ou son compte mobil money
-    
 - Choisit un montant
-    
 - Signe la transaction
-    
 - La contribution apparaît sur la blockchain
-    
 - Le total se met à jour
     
 
