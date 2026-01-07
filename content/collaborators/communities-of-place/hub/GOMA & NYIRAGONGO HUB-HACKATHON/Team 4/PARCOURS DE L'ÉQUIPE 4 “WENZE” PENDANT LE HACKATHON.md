@@ -275,7 +275,7 @@ Il est également important de souligner que le projet est actuellement déploy�
 II.3.2. Tests et optimisation de l’App
 
 Test 1 : Le 19/12/2025
-Pour cette phase, notre équipe a organisé un premier appel de test, qui a permis à l’ensemble des membres du projet, ainsi qu’à quelques utilisateurs proches (Tech et non-tech) n’étant pas participants au hackathon, de tester l’application et de partager leurs avis, retours et suggestions. ces
+Pour cette phase, notre équipe a organisé un premier appel de test, qui a permis à l’ensemble des membres du projet, ainsi qu’à quelques utilisateurs proches (Tech et non-tech) n’étant pas participants au hackathon, de tester l’application et de partager leurs avis, retours et suggestions.
 
 Cet appel a constitué une étape importante pour recueillir des feedbacks pratiques, identifier les points d’amélioration et valider certaines fonctionnalités du point de vue des utilisateurs finaux.
 
