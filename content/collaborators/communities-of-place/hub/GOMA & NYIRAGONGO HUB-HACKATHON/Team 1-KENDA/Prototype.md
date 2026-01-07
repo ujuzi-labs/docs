@@ -1,0 +1,1 @@
+https://kenda-web-app.vercel.app/fr

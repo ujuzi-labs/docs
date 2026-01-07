@@ -1170,4 +1170,3 @@ Afin de faciliter la compréhension du problème local, merci de consulter les r
 
 - Bien que la nouvelle plateforme nationale de  [e-Diplôme](https://www.google.com/url?q=https://diplome.cd/&sa=D&source=editors&ust=1764958184793028&usg=AOvVaw3IC9fNJMPSj7oZuHO-LJt3) constitue une avancée dans la lutte contre la fraude documentaire, elle ne résout pas directement le problème spécifique de la ville de Goma, car elle se limite pour l’instant aux diplômes humanitaires et n’inclut ni les certificats de formation, ni les attestations professionnelles, ni les documents administratifs, ni les titres fonciers qui sont pourtant les plus touchés localement par la falsification. 
   
-  Trouvez ici le lien vers le prototype présentant le fonctionnement de notre projet: https://proofchain-issuer.vercel.app/login
