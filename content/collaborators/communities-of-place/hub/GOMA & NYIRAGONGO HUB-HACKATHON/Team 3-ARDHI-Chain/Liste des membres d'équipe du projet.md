@@ -1,0 +1,513 @@
+**
+
+Liste des membres d’équipe du projet
+
+  
+  
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|N°|NOMS & PRÉNOMS|GitHub (s’il y en a)|RÔLE|Contacts|
+|1.|Hervé IRAGI|[https://github.com/Herva17](https://github.com/Herva17)|Dev Web|- mail:[herveiragi80@gmail.com](mailto:herveiragi80@gmail.com) <br>    <br>- Phone: 0977404036|
+|2.|TUOMBE GATO Joel|[https://github.com/tuombejoel](https://github.com/tuombejoel)||- mail: [tuombejoel@gmail.com](mailto:tuombejoel@gmail.com) <br>    <br>- Phone: +243 895 779 823|
+|3.|Salomon Makeke|||- mail:[makekesalomon@gmail.com](mailto:makekesalomon@gmail.com) <br>    <br>- Phone: +243 990260198|
+|4.|Enock wasso|[https://github.com/wassoenock](https://github.com/wassoenock/WASSO-HASKELL)||- mail: [wassoenock155@gmail.com](mailto:wassoenock155@gmail.com) <br>    <br>- Phone: +243 970557488|
+|5.|SADAKA SAFARI MICHEL|[https://github.com/sadakasafari](https://github.com/sadakasafari)||- mail:[michelsadaka9@gmail.com](mailto:michelsadaka9@gmail.com) <br>    <br>- Phone:|
+|6.|VALERY KALIRE Vanny|[Https://gitub.com/vannyvalery55-cyber](https://gitub.com/vannyvalery55-cyber)||- mail:[vannyvalery55@gmail.com](mailto:vannyvalery55@gmail.com) <br>    <br>- Phone:|
+|7.|AMISI LUBANGO|[https://github.com/12jeremy3](https://github.com/12jeremy3)||- mail:[lubangojeremie@gmail.com](mailto:lubangojeremie@gmail.com) <br>    <br>- Phone:|
+
+  
+  
+
+DOCUMENTATION
+
+  
+  
+
+DOCUMENTATION
+
+Þ PARCOURS DU HACKATHON : L'ÉQUIPE 3
+
+I. Présentation de l'Équipe
+
+Notre équipe, la Team 3, est composée de sept membres. Nous tenons à souligner l'importance de la collaboration dans notre travail :
+
+1.      TUOMBE GATO JOEL
+
+2.      MICHEL SADAKA
+
+3.      HERVE IRAGI
+
+4.      VALERY KALIRE
+
+5.      AMISI LUBANGO
+
+6.      SALOMON MAKEKE
+
+7.      ENOCK WASSO
+
+II. Phase de Lancement et Organisation
+
+Le Hackathon a débuté par une phase d'enregistrement où nous avons rempli un formulaire. Par la suite, nous avons été contactés individuellement par courriel afin de participer à une réunion de lancement en ligne via Google Meet.
+
+Cette réunion en ligne a permis d'échanger sur la Blockchain Cardano et de clarifier les objectifs du Hackathon. C'est après ce lancement que nous avons formé des groupes de sept personnes, privilégiant le travail d'équipe.
+
+Lors de notre première rencontre physique en tant que Team 3, nous avons fait connaissance et discuté des méthodes de travail collaboratives à adopter.
+
+III. Identification du Problème et Processus Itératif
+
+Notre démarche a consisté à analyser des problèmes locaux spécifiques pour y apporter une solution basée sur la Blockchain Cardano. Chaque membre a proposé des idées qui ont été soumises à une analyse collective afin de choisir la solution la plus pertinente et la mieux accueillie par la population de Goma.
+
+Voici les sujets que nous avons successivement proposés et analysés :
+
+·         Plateforme de gestion de dossiers médicaux : Réunir les structures de santé pour une gestion des dossiers par la blockchain. (Abandonné)
+
+·         Application de gestion d'aides humanitaires : Assurer la transparence des aides, du donateur au bénéficiaire final. (Abandonné)
+
+·         Plateforme de commerce en ligne : Un projet dénommé GOMA_SOKO.
+
+IV. Le Défi du Sujet Similaire et le Pivôt
+
+Nous avons travaillé sur GOMA_SOKO et préparé sa présentation pour le lancement en présentiel, qui a eu lieu le samedi 22 novembre au Centre d'Accueil Bakanja.
+
+Lors de cette journée, la Team 4 a présenté un sujet très similaire au nôtre dite WENZE. Face à cette duplication des objectifs et des problèmes visés, une interrogation s'est posée : comment gérer cette situation ?
+
+Nous sommes rentrés sans solution immédiate. Heureusement, M. Boaz, l'un des facilitateurs locaux du Hackathon, a organisé une réunion en ligne entre la Team 3 et la Team 4. Après d'intenses discussions, nous avons décidé, en Team 3, de céder le projet GOMA_SOKO à la Team 4 qui le développe entant que WENZ et de nous concentrer sur la résolution d'un autre problème réel au sein de la population de Goma.
+
+V. Le Projet Final : ARDHI_chain
+
+Après une analyse approfondie et des entretiens avec la population de Goma, nous avons identifié des problématiques cruciales dans le secteur de l'immobilier et du foncier.
+
+Nous avons alors fait le choix de développer une plateforme intégrant la Blockchain Cardano pour résoudre les litiges et problèmes naissant entre :
+
+·         Bailleurs et locataires d'immeubles.
+
+·         Vendeurs et acheteurs de parcelles.
+
+C'est ainsi qu'est né notre projet final :
+
+·         Ardhi_chain, un nom soigneusement choisi pour sa signification et sa résonance locale. Le terme "ARDHI" est un mot inspiré de la langue swahili, une langue beaucoup parlée à l’est de la RDC y compris l’ensemble de la ville GOMA. Le mot « Ardhi » signifie terre, sol, ou terrain. Nous avons délibérément étendu sa signification pour qu'il englobe symboliquement tout l'écosystème foncier et immobilier, y compris les parcelles, les constructions et les maisons. Ce choix linguistique ancre immédiatement notre solution dans la réalité de Goma, tout en soulignant l'ambition de notre plateforme : apporter une Action de Régulation et d'Harmonisation du Domaine Immobilier (A.R.H.D.I.), garantissant ainsi la transparence et la sécurité des transactions pour la population locale.
+
+1.      INTRODUCTION
+
+                     La ville de Goma connaît depuis plusieurs années une forte croissance démographique, une urbanisation rapide et une forte demande en logements et en parcelles. Cependant, ce secteur reste marqué par de nombreux défis liés à la transparence, la sécurité foncière et l’accès à des informations fiables sur les propriétés.  
+Les habitants rencontrent souvent des difficultés lorsqu’ils cherchent une maison à louer, un terrain à acheter ou lorsqu’ils souhaitent confirmer l’authenticité d’un document foncier.
+
+Le projet ARDHI_chain se positionne comme une solution moderne et innovante qui combine technologie web et blockchain Cardano afin de sécuriser, numériser et fluidifier les transactions immobilières et foncières.  
+Son objectif principal est d’offrir une plateforme fiable permettant :
+
+- La recherche de logements (location),
+    
+- La consultation et la vérification des parcelles (vente),
+    
+- L’enregistrement transparent des données foncières,
+    
+- La réduction des fraudes et des conflits de propriété.
+    
+- Réduire les fraudes,
+    
+-  Rassurer les habitants,
+    
+- Créer un écosystème immobilier basé sur la transparence et la confiance.
+    
+
+1. Ambitions de la plateforme
+
+Les ambitions d’ARDHI_chain sont multiples :
+
+- Créer la première plateforme immobilière décentralisée en République Démocratique du Congo, avec Goma comme ville pilote.
+    
+- Numériser et sécuriser les parcelles et les transactions grâce à la blockchain (tokenisation, preuve de propriété, registre vérifiable).
+    
+- Offrir un écosystème de confiance réunissant propriétaires, agents, bailleurs, acheteurs et locataires vérifiés.
+    
+- Réduire drastiquement les fraudes foncières et immobilières, particulièrement répandues à Goma.
+    
+- Faciliter l’accès à l’information sur les logements, les parcelles, les prix et l’historique de propriété.
+    
+- Moderniser le secteur immobilier en introduisant des technologies avancées (DID, smart contracts, registre public immuable).
+    
+
+2. Hypothèses du projet
+
+Le projet repose sur plusieurs hypothèses réalistes :
+
+1.      Les habitants de Goma adopteront progressivement une plateforme numérique plus transparente.
+
+2.      Les agents immobiliers, bailleurs et propriétaires accepteront les procédures de vérification d’identité (DID).
+
+3.      La blockchain Cardano offrira un cadre sécurisé, évolutif et économique pour les transactions.
+
+4.      Le marché local est prêt pour une solution innovante de confiance.
+
+5.      La majorité des utilisateurs disposent d’un smartphone et d’un accès internet minimal.
+
+6.      Les institutions locales pourraient collaborer pour renforcer la valeur et l’authenticité du registre numérique.
+
+3. Justification du projet
+
+La mise en place d’ARDHI_chain se justifie par :
+
+- Le taux élevé de fraudes foncières (double vente, faux documents, faux propriétaires).
+    
+- L’absence d’un registre foncier numérique accessible et sécurisé.
+    
+- La difficulté à vérifier l’authenticité d’un terrain ou d’un propriétaire avant une transaction.
+    
+- Les arnaques immobilières fréquentes dans la location (frais multiples, agents non certifiés, logements fictifs).
+    
+- La croissance rapide de la ville, qui nécessite des systèmes modernes de gestion immobilière.
+    
+- La demande croissante des citoyens pour plus de transparence dans les affaires immobilières.
+    
+
+ARDHI_chain répond donc à un besoin réel et urgent, en apportant des outils modernes adaptés au contexte local.
+
+4. Objectifs du projet
+
+✔ Objectif général
+
+Mettre en place une plateforme numérique décentralisée permettant de sécuriser, vérifier et faciliter les transactions immobilières et foncières à Goma grâce à la blockchain Cardano.
+
+✔ Objectifs spécifiques
+
+- Tokeniser les parcelles sous forme de NFTs sécurisés.
+    
+- Créer un registre foncier numérique transparent, consultable par tous.
+    
+- Développer un module moderne de gestion des locations.
+    
+- Réduire les fraudes, arnaques et litiges liés à l’immobilier.
+    
+- Vérifier l’identité des acteurs (agents, propriétaires, bailleurs).
+    
+- Simplifier les procédures de vérification foncière pour les citoyens.
+    
+- Automatiser certaines opérations via des smart contracts (dépôts, ventes sécurisées).
+    
+- Centraliser les informations immobilières et foncières dans une interface moderne.
+    
+
+5. Analyse du marché local
+
+Le marché immobilier de Goma est en plein essor, stimulé par :
+
+- une urbanisation soutenue,
+    
+- Une forte demande en logements,
+    
+- l’expansion des activités économiques,
+    
+- L’installation de nouveaux investisseurs et ONG,
+    
+- La croissance de la population.
+    
+
+Cependant, il souffre de plusieurs faiblesses :
+
+- Absence de système numérique officiel,
+    
+- Manque de transparence dans l’historique des parcelles,
+    
+- nombreuses fraudes,
+    
+- Dépendance aux intermédiaires non certifiés,
+    
+- prix non standardisés,
+    
+- Conflits fonciers très fréquents.
+    
+
+Le marché local présente un fort potentiel et un besoin réel d’une solution technologique comme ARHDI_CHAIN.
+
+I.                   PROBLEMES LOCAUX DE LA VILLE DE GOMA
+
+Le secteur immobilier de Goma fait face à des défis uniques, aggravés par l’absence de système numérique centralisé. Voici une analyse détaillée :
+
+a) L’insécurité foncière
+
+- Les titres fonciers sont souvent mal conservés ou facilement falsifiables.
+    
+- De nombreux cas de double vente ou de conflits de propriété apparaissent régulièrement.
+    
+- Les documents officiels sont parfois difficiles à authentifier.
+    
+
+b) L’opacité des transactions
+
+- Les informations sur les parcelles ou les maisons ne sont pas centralisées.
+    
+- Les citoyens n’ont pas accès à un registre clair permettant de vérifier l’historique d’un terrain.
+    
+
+c) La fraude et les arnaques immobilières
+
+- Certains agents non reconnus profitent de ce désordre pour tromper les locataires et acheteurs.
+    
+- Des faux propriétaires vendent des terrains qui ne leur appartiennent pas.
+    
+
+d) La difficulté de trouver un logement fiable
+
+- Les locataires passent des semaines à chercher une maison disponible.
+    
+- Plusieurs frais d’agences différents sont souvent demandés.
+    
+- Il n’existe pas encore une plateforme numérique centralisée pour les locations.
+    
+
+e) Les démarches longues et coûteuses
+
+- Vérifier un titre foncier demande du temps et des déplacements.
+    
+- Le manque d’outils numériques ralentit les procédures.
+    
+
+En résumé : Goma a besoin d’un système moderne qui sécurise, simplifie et digitalise les transactions immobilières et foncières.
+
+II.               SOLUTION PROPOSEE : ARDHI_CHAIN
+
+ARDHI_CHAIN répond à ces problèmes en proposant une plateforme web moderne comprenant deux modules principaux :
+
+# II.1. Module 1 : ARDHI_LOC – GESTION DES LOCATIONS
+
+Ce module permet :
+
+✔ de consulter les logements disponibles à Goma,  
+✔ de filtrer par quartier, prix, type de maison,  
+✔ de contacter les agents vérifiés,  
+✔ d’éviter les arnaques grâce à un système de vérification.
+
+### Fonctionnalités détaillées:
+
+1.      Catalogue de logements
+
+o Photos, prix, localisation, propriétaire, type de logement.
+
+2.      Filtre intelligent
+
+o Recherche par quartier, budget, nombre de chambres.
+
+3.      Agents certifiés
+
+o Seuls les agents vérifiés (avec identité blockchain DID) peuvent publier.
+
+4.      Système de réputation
+
+o Notes et commentaires après chaque transaction.
+
+5.      Smart contract pour les dépôts
+
+o Les dépôts sont bloqués dans un contrat intelligent, évitant les vols.
+
+# II.2. Module 2 : ARDHI_PARC – GESTION FONCIERE & VENTE
+
+C’est le cœur du projet.
+
+### Fonctionnalités détaillées:
+
+1.      Tokenisation des parcelles
+
+o Chaque terrain est converti en NFT unique sur Cardano.
+
+2.      Registre immuable
+
+o L’historique d’un terrain (propriétaire, ventes, héritages) est visible publiquement.
+
+3.      Vérification instantanée
+
+o Un simple scan/check permet de vérifier l’authenticité.
+
+4.      Authentification du propriétaire via blockchain
+
+o Preuve numérique impossible à falsifier.
+
+5.      Smart contracts pour les accords de vente
+
+o L’argent est bloqué tant que toutes les étapes ne sont pas validées.
+
+# 3.3. Identité Décentralisée (DID)
+
+Chaque utilisateur (bailleur, propriétaire, agent, acheteur) reçoit une identité numérique vérifiée sur Cardano.
+
+Avantages:
+
+·         Impossible de se faire passer pour quelqu’un d’autre.
+
+·         Traçabilité des actions sur la plateforme.
+
+·         Augmentation de la confiance.
+
+III.            INTEGRATION DE LA BLOCKCHAIN CARDANO DANS LE PROJET
+
+Cardano est choisie comme technologie principale pour plusieurs raisons :
+
+- sécurité élevée,
+    
+- faible coût de transaction,
+    
+- support des smart contracts,
+    
+- Possibilité de créer et gérer des NFTs,
+    
+- Système d'identité décentralisée (DID) performant.
+    
+
+Voici comment ARDHI_CHAIN utilise Cardano :
+
+a) Tokenisation des parcelles (NFTs)
+
+Chaque terrain validé est transformé en NFT contenant :
+
+- les coordonnées GPS,
+    
+- la superficie,
+    
+- le propriétaire,
+    
+- Les documents légaux (hachés, pas exposés publiquement),
+    
+- L’historique des changements de propriétaire.
+    
+
+NB : Ce NFT devient un titre de propriété numérique infalsifiable.
+
+b) Smart Contracts (Contrats intelligents)
+
+Ils servent à:
+
+- Sécuriser les paiements entre acheteur et vendeur,
+    
+- Garantir que les fonds sont libérés seulement lorsque tout est validé,
+    
+- Automatiser les dépôts de garantie dans la location.
+    
+
+c) Identité Décentralisée (Cardano DID)
+
+Chaque utilisateur vérifié reçoit une identité numérique.  
+Cela permet de :
+
+- confirmer l’identité du vendeur,
+    
+- éviter les fausses annonces,
+    
+- Renforcer la confiance du public.
+    
+
+d) Registre Public Décentralisé
+
+La blockchain devient un registre public transparent pour :
+
+- l’historique d'une parcelle,
+    
+- les transactions passées,
+    
+- Les propriétaires successifs.
+    
+
+Aucun agent ne peut modifier ou supprimer une donnée. Tout est contrôlable publiquement.
+
+IV. Intégration du Mobile Money
+
+Afin de garantir l'accessibilité maximale de la plateforme ARDHI_chain à la population de Goma, nous intégrons le Mobile Money comme moyen de paiement essentiel pour les transactions ne nécessitant pas une complexité totale via les cryptomonnaies natives de Cardano.
+
+Cette intégration est cruciale pour le module ARDHI_LOC (Location) et pour la gestion des frais de vérification.
+
+A. Utilisation du Mobile Money
+
+Le Mobile Money sera principalement utilisé pour les opérations suivantes :
+
+|   |   |   |
+|---|---|---|
+|Opération|Module Concerné|Rôle du Mobile Money|
+|Paiement des Loyers|ARDHI_LOC|Les locataires peuvent payer leur loyer directement via Mobile Money, qui est ensuite converti en monnaie fiduciaire pour le bailleur ou stocké numériquement pour le Smart Contract de dépôt.|
+|Dépôts de Garantie|ARDHI_LOC|Le montant du dépôt est transféré via Mobile Money et séquestré dans le Smart Contract pour être libéré ou remboursé automatiquement à la fin du bail.|
+|Frais de Vérification/Consultation|ARDHI_PARC|Paiement des frais minimaux pour la consultation de l'historique d'une parcelle ou la vérification d'un titre de propriété.|
+|Frais d'Agent|ARDHI_LOC|Paiement sécurisé des commissions dues aux agents certifiés.|
+
+B. Le Processus de Bridge (Pont) Sécurisé
+
+L'intégration du Mobile Money avec la Blockchain Cardano nécessite un "pont" (bridge) sécurisé pour garantir la traçabilité sans obliger l'utilisateur final à manipuler des wallets crypto :
+
+1.      Dépôt (On-Ramp) : L'utilisateur envoie de l'argent (CDF) via Mobile Money vers le compte d'un Opérateur de Paiement Vérifié (OPV) lié à la plateforme ARDHI_chain.
+
+2.      Notification : L'OPV confirme la transaction à la plateforme.
+
+3.      Smart Contract : Une fois la confirmation reçue, le Smart Contract sur Cardano est déclenché pour :
+
+o    Enregistrer la preuve de paiement sur la blockchain (traçabilité).
+
+o    Bloquer l'équivalent du montant dans le contrat (pour un dépôt de garantie ou une vente sécurisée).
+
+4.      Retrait (Off-Ramp) : Lorsqu'un paiement est dû (loyer au propriétaire, remboursement de dépôt), le Smart Contract libère le fonds vers l'OPV, qui le renvoie au destinataire final via Mobile Money.
+
+Cette approche garantit que la sécurité et l'immuabilité de la Blockchain Cardano sont utilisées pour le registre des transactions, tout en conservant l'accessibilité et la facilité d'usage du Mobile Money pour la majorité des habitants de Goma.
+
+                     Le projet ARDHI_chain s’inscrit dans une dynamique de modernisation profonde du secteur immobilier et foncier de la ville de Goma. Face aux défis majeurs auxquels fait face ce secteur notamment l’insécurité foncière, la fraude, l’opacité des transactions et l’absence de registres fiables. Cette plateforme propose une réponse innovante, durable et adaptée au contexte local.
+
+                     En intégrant la blockchain Cardano, ARDHI_CHAIN introduit une technologie qui garantit l’immutabilité, la transparence et la traçabilité des données relatives aux parcelles, aux propriétaires et aux transactions. Ce système renforce la confiance entre les acteurs, réduit les risques d’arnaque et modernise des processus longtemps restés manuels, coûteux et vulnérables.
+
+La plateforme combine également des fonctionnalités essentielles pour le marché local :
+
+·         Un module avancé de location sécurisée,
+
+·         un registre foncier numérique,
+
+·         la tokenisation des parcelles,
+
+·         L’automatisation des procédures via des smart contracts,
+
+·         Un système d’identités vérifiées (DID),
+
+·         Une interface intuitive accessible aux habitants de Goma.
+
+Grâce à sa conception technique, ARDHI_CHAIN garantit une expérience utilisateur fluide, moderne et accessible sur tout type de support. Le projet a le potentiel d’améliorer significativement la confiance, d'attirer les investisseurs, de réduire les litiges fonciers et de contribuer à la transformation numérique de la ville.
+
+En conclusion, ARDHI_CHAIN représente bien plus qu’une simple plateforme numérique : c’est une innovation stratégique, un outil de développement urbain et un levier technologique capable d’apporter sécurité, transparence et efficacité dans un secteur clé de la vie quotidienne des habitants de Goma.  
+Sa mise en œuvre ouvre la voie à une gestion foncière plus moderne, plus juste et plus sécurisée, tout en créant les bases d'un écosystème immobilier aligné sur les standards internationaux.
+
+  
+  
+  
+
+MODELISATION DU SYSTEME D’INFORMATION AVEC LA METHODE UML
+
+La modélisation du système d'information d'une application revêt une importance capitale afin d'assurer un développement organisé et performant. 
+
+La méthode UML (Unified Modeling Language) sera employée afin de représenter divers aspects du système, tels que les interactions entre les utilisateurs et le système, la structure des données et le comportement du système [24]. 
+
+Les diagrammes UML principaux qui décrivent la modélisation de ce système d'information sont exposés dans ce chapitre.
+
+I. Diagramme de Cas d'Utilisation (Use Case Diagram)
+
+Ce diagramme montre les interactions entre les utilisateurs (Acteurs) et les fonctionnalités (Cas d'Utilisation) du système ARDHI_chain.
+
+ Acteurs Principaux :
+
+- Locateur/Acheteur : Locataire ou Acheteur potentiel.
+    
+- Propriétaire/Bailleur : Propose des biens à la vente ou à la location.
+    
+- Agent Immobilier Certifié : Intermédiaire vérifié.
+    
+- Système Blockchain (Cardano) : Gère le registre et les Smart Contracts.
+    
+- Opérateur Mobile Money (OPM) : Gère les transactions fiduciaires (Mobile Money).
+    
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd4GMaiY2NUEeDCPWV5jpd9k8TVolDusr8UCyWA5OiKb6Vd1ckpKtEy2AI2St0rCj-19uWMFI9hVXXkGNUabHV4uuZBoJiZLQwfbrMHUBM6AcfOQA18FHp6-e1y5cV1AW9EIkoIpNFivkZc_0RfM-Yg_fiTzlQ?key=NM6bCxeDs486yhMrLXKTdw) 
+
+II. Diagramme de Classes
+
+Ce diagramme est le cœur de la base de données et des entités de notre système.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-irVIkcqz9ZKwHsh3qy1YLZVEqrARveN-YTZvjkOpDn2XrYrxL_v5iw-HOGgD3vpbxfu7EIHI4KNPwQ4F86aWf5IjudDgPpWH-Y4Gle44I-Bmfg0Jt01YpIvg2UFhZRupEcmchpFZ91-MLktLShFB5j9p0U8?key=NM6bCxeDs486yhMrLXKTdw)
+
+III. Diagramme d'Activité : Tokenisation de la Parcelle (NFT)
+
+Ce diagramme modélise le processus critique d'enregistrement d'une nouvelle parcelle sur la blockchain (Module ARDHI_PARC).
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsk6VSe-n-rdRfJP94d1UciWprV_uX7VZHtWvxM9Fe4-AKINlXVPfopnXK9kQBlr9GX4ToT6jZDDxW-Dx4Zmdh5QVQQ23WOyBJa3N3IpuQyg1HZLOBqFMZYM42FlDh4bG3ox1-uebfevenzSrSXB-OdUJNUg?key=NM6bCxeDs486yhMrLXKTdw)
+
+**
