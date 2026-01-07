@@ -14,7 +14,7 @@ Afin d’assurer la réussite de l’organisation du hackathon au niveau local, 
 
 Par ailleurs, afin d’assurer un suivi efficace des équipes participantes, certains membres de la coordination mentionnés ci-dessus ont été affectés à des équipes spécifiques. Chaque membre était chargé de produire des rapports réguliers sur l’évolution de son équipe, ce qui a permis une meilleure répartition des tâches et un suivi structuré de la progression des projets.
 
-Dans le but de favoriser les échanges internes et d’améliorer la conception des idées avant leur partage avec l’ensemble des hackers, un groupe WhatsApp de la coordination a été crée, mais aussi 3 autres groupes de communication ont été mis en place :
+Dans le but de favoriser les échanges internes et d’améliorer la conception des idées avant leur partage avec l’ensemble des hackers, un groupe WhatsApp de la coordination a été crée, mais aussi 3 autres groupes ont été mis en place :
 
 - Un groupe **WhatsApp** regroupant l’ensemble des hackers; 
 - Un groupe **WhatsApp** réservé exclusivement aux Team Leaders et la coordination;
