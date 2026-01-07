@@ -1,10 +1,5 @@
 **
 
-Liste des membres d’équipe du projet
-
-  
-  
-
 |   |   |   |   |   |
 |---|---|---|---|---|
 |N°|NOMS & PRÉNOMS|GitHub (s’il y en a)|RÔLE|Contacts|
