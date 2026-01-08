@@ -244,8 +244,8 @@ Nous avons identifié que le principal défi pour l’adoption du projet réside
 - **Wenze cherchera à établir des partenariats stratégiques avec des services professionnels, des coopératives et des marchés d’opérateurs économiques majeurs**, afin de favoriser l’adoption à grande échelle et l’intégration dans les circuits commerciaux existants.
 ## Conclusion
 
-En conclusion, Wenze n’est pas une simple marketplace, mais une **solution communautaire à un problème social réel**. Ancré dans les réalités de Goma et propulsé par la blockchain Cardano, le projet instaure un **modèle de commerce fondé sur la confiance, la transparence et la responsabilité partagée**.
+En conclusion, **Wenze n’est pas une simple marketplace**, mais une **solution communautaire répondant à un problème social réel**. Ancré dans les réalités de Goma et propulsé par la blockchain Cardano, le projet propose un **modèle de commerce fondé sur la confiance, la transparence et la responsabilité partagée**.
 
-Conçu dans le respect profond de la culture locale, Wenze s’appuie sur le commerce de proximité et les relations de confiance existantes, tout en restant accessible grâce à son usage en **kiswahili et en français**. Son nom, **« Wenze »**, issu du **lingala**, renforce son identité locale et son appropriation par la communauté.
+Conçu dans le respect profond de la culture locale, Wenze s’appuie sur le commerce de proximité et les relations de confiance existantes, tout en restant accessible grâce à son utilisation en **kiswahili et en français**, les deux langues les plus parlées dans la ville de Goma. Son nom, **« Wenze »**, issu du **lingala**, l’une des **quatre langues nationales de la République Démocratique du Congo**, renforce son identité locale et favorise son appropriation par la communauté.
 
 **Wenze ne change pas les habitudes commerciales locales : il les renforce, les sécurise et les améliore**, en mettant la technologie Cardano au service des usages existants.
