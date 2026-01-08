@@ -127,11 +127,10 @@ c. Impact économique et social :
 - Renforcement de la résilience économique en période d’instabilité, offrant une alternative fiable aux marchés traditionnels.
 - Valorisation du commerce informel et reconnaissance des petits vendeurs et promoteurs.
 - Encouragement à l’adoption de nouvelles technologies comme la blockchain Cardano, avec des effets durables sur l’économie locale.
-- Récompenses et motivation via WZP (Wenze Points) 
-- Chaque vente réussie, chaque paiement validé et chaque évaluation honnête génèrent des points WZP. Ces WZP permettent aux utilisateurs :
-        - d’obtenir une meilleure visibilité et réputation sur la plateforme,
-        - d’accéder à des avantages ou promotions dans l’application;
-        - et, dans certains cas, de convertir ces points en ADA (testnet ou réel selon le contexte).
+- Récompenses et motivation via WZP (Wenze Points) : Chaque vente réussie, chaque paiement validé et chaque évaluation honnête génèrent des points WZP. Ces WZP permettent aux utilisateurs :
+- d’obtenir une meilleure visibilité et réputation sur la plateforme,
+- d’accéder à des avantages ou promotions dans l’application;
+- et, dans certains cas, de convertir ces points en ADA (testnet ou réel selon le contexte).
 - Ce système transforme la confiance et la participation en récompense tangible, motivant les comportements fiables et responsables.
 
 ## V. 2.  Impact sur l’écosystème Cardano
