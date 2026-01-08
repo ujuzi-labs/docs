@@ -29,9 +29,9 @@ Documents de référence :
 
 ## II. Contexte local – Le commerce à Goma
 
-La ville de Goma, capitale du Nord-Kivu, est aujourd’hui une cité dynamique, connectée et en pleine mutation numérique où une grande partie de la population vit du commerce, les échanges s’effectuant dans des marchés publics, des marchés informels, des boutiques, des galeries commerciales ou encore des espaces improvisés. 
+La ville de **Goma**, capitale du Nord-Kivu, est aujourd’hui une cité dynamique et connectée, comptant **plus d’un million d’habitants**, avec une population majoritairement jeune et active. Une grande partie de cette population vit du **commerce**, exercé dans les marchés publics et informels, les boutiques, les galeries commerciales ou encore des espaces de vente improvisés.
 
-Avec l’essor des smartphones et de l’Internet mobile, de nombreux commerçants migrent progressivement vers les réseaux sociaux tels que WhatsApp, Facebook, TikTok ou Snapchat pour vendre leurs produits et, bien que cette transition ait élargi la portée des vendeurs, elle a également amplifié des dysfonctionnements déjà présents dans le commerce local.
+Avec l’essor des **smartphones et de l’Internet mobile**, de nombreux commerçants se tournent progressivement vers des plateformes comme **WhatsApp, Facebook, TikTok ou Snapchat** pour vendre leurs produits. Si cette transition a élargi leur visibilité et leur clientèle, elle a également **accentué des dysfonctionnements existants du commerce local**, notamment en matière de confiance, de paiements sécurisés et de protection des vendeurs comme des acheteurs.
 
 ## III. Problèmes identifiés
 Les problèmes identifiés dans le cadre de notre projet se déclinent en deux grands contextes : le **commerce physique** et le **commerce numérique**.
