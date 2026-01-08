@@ -4,7 +4,9 @@
 **Organisateurs / Facilitation :** Hubs locaux (Goma & Nyiragongo)
 
 ---
-## 1. Introduction
+## 1. Introduction  
+
+Changing
 
 Dans le cadre des activités d’innovation communautaire et de promotion des solutions technologiques locales, un **atelier suivi d’un Demo Day et d’un processus de sélection de projets** a été organisé le **26 décembre** à l’ISDR-GL, avec la participation des Hubs de Goma et Nyiragongo.
 

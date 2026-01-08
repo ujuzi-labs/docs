@@ -1,27 +1,28 @@
-import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Head } from 'nextra/components';
-import { getPageMap } from 'nextra/page-map';
-import 'nextra-theme-docs/style.css';
-import '@/styles.css';
-import { ReactNode } from 'react';
+import { Footer, Layout, Navbar } from "nextra-theme-docs";
+import { Head } from "nextra/components";
+import { getPageMap } from "nextra/page-map";
+import "nextra-theme-docs/style.css";
+import "@/styles.css";
+import { ReactNode } from "react";
 import { Analytics } from "@vercel/analytics/react";
-import { generateMetadata } from './utils/metadata';
+import { generateMetadata } from "./utils/metadata";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
-import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
-const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
+const iconClasses =
+  "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110";
 const hoverColorClasses = [
-  'hover:text-prisma-a',
-  'hover:text-prisma-b',
-  'hover:text-prisma-c',
-  'hover:text-prisma-d',
+  "hover:text-prisma-a",
+  "hover:text-prisma-b",
+  "hover:text-prisma-c",
+  "hover:text-prisma-d",
 ];
 
 type IconProps = React.SVGProps<SVGSVGElement>;
 
-const getRandomHoverColor = () => hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)];
+const getRandomHoverColor = () =>
+  hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)];
 
 const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   <svg
@@ -43,13 +44,11 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 
 const navbar = (
   <Navbar
-    logo={
-      <div className="text-xl font-bold">
-        Prisma
-      </div>
-    }
+    logo={<div className="text-xl font-bold">Prisma</div>}
     logoLink={"https://www.prisma.events/"}
-    chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
+    chatIcon={
+      <FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />
+    }
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
       <div className="inline-flex items-center gap-4">
@@ -68,7 +67,9 @@ const navbar = (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
+          <OpenCollectiveIcon
+            className={`${iconClasses} ${getRandomHoverColor()}`}
+          />
         </a>
 
         {/* Calendar */}
@@ -77,16 +78,20 @@ const navbar = (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
+          <BsCalendarWeek
+            className={`${iconClasses} ${getRandomHoverColor()}`}
+          />
         </a>
       </div>
     }
     projectLink={"https://github.com/prisma-collective/"}
-    projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
+    projectIcon={
+      <FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />
+    }
   />
 );
 
-const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
+const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>;
 
 export default async function RootLayout({
   children,
@@ -104,7 +109,10 @@ export default async function RootLayout({
         <meta name="description" content={metadata.description} />
         {/* OpenGraph Meta Tags */}
         <meta property="og:title" content={metadata.openGraph.title} />
-        <meta property="og:description" content={metadata.openGraph.description} />
+        <meta
+          property="og:description"
+          content={metadata.openGraph.description}
+        />
         <meta property="og:url" content={metadata.openGraph.url} />
         <meta property="og:site_name" content={metadata.openGraph.siteName} />
         <meta property="og:type" content={metadata.openGraph.type} />
@@ -112,7 +120,10 @@ export default async function RootLayout({
         {/* Twitter Meta Tags */}
         <meta name="twitter:card" content={metadata.twitter.card} />
         <meta name="twitter:title" content={metadata.twitter.title} />
-        <meta name="twitter:description" content={metadata.twitter.description} />
+        <meta
+          name="twitter:description"
+          content={metadata.twitter.description}
+        />
         <meta name="twitter:image" content={metadata.twitter.images[0]} />
       </Head>
       <body>
@@ -125,9 +136,9 @@ export default async function RootLayout({
           editLink={null}
           nextThemes={{ defaultTheme: "dark" }}
         >
-          <ActiveJourneyProvider>
-            {children}
-          </ActiveJourneyProvider>
+          {/* <ActiveJourneyProvider> */}
+          {children}
+          {/* </ActiveJourneyProvider> */}
           <Analytics />
         </Layout>
       </body>
