@@ -185,14 +185,14 @@ Wenze est porté par 6 personnes avec des compétences variées dont:
 Ces développeurs sont accompagnés de 3 membres expérimentés dans l’écosystème Cardano et en contact permanent avec les utilisateurs locaux dont [Bandu Boaz](https://x.com/BoazB318?s=20) ; [Martin Musagara](https://x.com/martin_musagara?s=20) et [Baudoin Muvunga](https://x.com/BaudouinMuv?s=20). 
 Cette diversité démontre que le projet peut être mené efficacement, grâce à des expériences techniques et non techniques variées. 
 
-2. **Transactions ADA & FC (Francs Congolais) simplifiées : 
+2. **Transactions ADA & FC (Francs Congolais) simplifiées :**
 
 Nous avons identifié que le principal défi pour l’adoption du projet réside dans la possibilité de réaliser des transactions en **ADA**, une cryptomonnaie encore méconnue de la majorité de la population de Goma. Pour y remédier :
 
 - L’application permet également des paiements en monnaie locale via **Mobile Money**.
 - Nous avons mis en place un système de **WZP (Wenze Points)** qui récompense uniquement les utilisateurs choisissant d’effectuer leurs transactions en ADA, les incitant ainsi à migrer vers l’usage de la cryptomonnaie de manière volontaire, sans contrainte.
 
-3. **Solutions complémentaires aux limites de l’adoption
+3. **Solutions complémentaires aux limites de l’adoption**
 
 -  **Éducation et accompagnement des utilisateurs**  
     Une **IA éducative** intégrée à l’application permettra aux utilisateurs de se familiariser avec Cardano, notamment pour la création et la gestion de portefeuilles, et de comprendre le fonctionnement de Wenze.  
