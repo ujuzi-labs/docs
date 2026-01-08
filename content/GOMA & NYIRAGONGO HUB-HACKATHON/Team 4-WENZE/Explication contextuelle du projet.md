@@ -250,4 +250,4 @@ En conclusion, Wenze n’est pas une simple marketplace, mais une **solution com
 
 Conçu dans le respect profond de la culture locale, Wenze s’appuie sur le commerce de proximité et les relations de confiance existantes, tout en restant accessible grâce à son usage en **kiswahili et en français**. Son nom, **« Wenze »**, issu du **lingala**, renforce son identité locale et son appropriation par la communauté.
 
-**Wenze ne change pas les habitudes commerciales locales : il les renforce, les sécurise et les améliore**, en mettant la technologie au service des usages existants.
+**Wenze ne change pas les habitudes commerciales locales : il les renforce, les sécurise et les améliore**, en mettant la technologie Cardano au service des usages existants.
