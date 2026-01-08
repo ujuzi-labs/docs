@@ -125,6 +125,7 @@ b. Pour les clients :
 c. Impact économique et social :
 
 - Renforcement de la résilience économique en période d’instabilité, offrant une alternative fiable aux marchés traditionnels.
+- Introduction d’un nouveau système financier accessible, permettant aux utilisateurs de détenir et d’utiliser l’ADA comme outil d’épargne et d’investissement à court et long terme, ouvrant ainsi la porte à de nouvelles opportunités financières au-delà des circuits locaux classiques.
 - Valorisation du commerce informel et reconnaissance des petits vendeurs et promoteurs.
 - Encouragement à l’adoption de nouvelles technologies comme la blockchain Cardano, avec des effets durables sur l’économie locale.
 - Récompenses et motivation via WZP (Wenze Points) : Chaque vente réussie, chaque paiement validé et chaque évaluation honnête génèrent des points WZP. Ces WZP permettent aux utilisateurs :
