@@ -1,4 +1,4 @@
-**
+
 ## 0. Introduction
 
 Notre projet n’est pas le fruit du hasard. Il est l’aboutissement d’un parcours progressif, marqué par des étapes clés, des décisions collectives et une organisation structurée.
@@ -197,9 +197,10 @@ Cependant, l’un des éléments les plus marquants a été de constater qu’un
 
 [Ici une image montrant Olivier Mwatsimulamo un des membres de l'équipe du projet présentant le projet lors du meetup.  ](https://drive.google.com/file/d/1Y7Uk2abii-rN0CH6obfW6hixcKMqWI6t/view?usp=drive_link)
 
-Signalons qu’après le meetup, l’équipe 3 — qui travaillait sur une idée similaire à la nôtre — nous a contactés en raison de possibles conflits d’intérêts.  
-N’ayant pas de solution immédiate à cette situation, un appel a été organisé le 24.11.2025 à l’initiative des facilitateurs locaux du hackathon. Après de longues discussions, l’équipe 3 a décidé d’orienter son travail vers une autre solution et d’abandonner l’idée initiale, dans le but de favoriser une plus grande diversité des problématiques abordées par les huit équipes participantes au hackathon local.
+Après le meetup, l’équipe 3 — qui travaillait sur une idée similaire à la nôtre — nous a contactés en raison de possibles conflits d’intérêts. Ne disposant pas de solution immédiate, un appel a été organisé le 24.11.2025 à l’initiative des facilitateurs locaux du hackathon.
 
+Après de longues discussions, l’équipe 3 a décidé **d’orienter son travail vers une autre solution et d’abandonner l’idée initiale**, afin de favoriser une plus grande diversité des problématiques abordées par les huit équipes participantes au hackathon.
+Une des principales raisons de cette décision était que nous étions déjà en avance : nous avions déjà finis notre enquete lancé **enquête de terrain** pour confirmer le vraie problème et identifier les vraies besoins de la population, ce qui plaçait notre projet à un stade plus avancé. Face à cette progression, l’équipe 3 a choisi **librement d’abandonner leur idée initiale** et de se concentrer sur un nouveau projet visant la **certification des documents parcellaires dans la ville de Goma**.
 Cette démarche s’est déroulée sans aucune polémique et dans un esprit pleinement cordial. Elle nous a permis de poursuivre sereinement le développement de notre idée, avec la conviction renforcée que le problème que nous cherchons à résoudre est également ressenti par les membres d’une autre équipe du hackathon.
 ### II.2. Définition des stacks et installation des outils nécessaires pour le développement du projet: Du 23 au 29 Novembre 2025
 
