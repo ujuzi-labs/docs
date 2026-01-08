@@ -211,9 +211,6 @@ Nous avons identifié que le principal défi pour l’adoption du projet réside
  6. **Chat sécurisé pour la livraison**  
 - L’intégration d’un **chat sécurisé** dans l’application permet aux utilisateurs d’échanger directement lors des transactions.   Cette fonctionnalité reproduit l’expérience des réseaux sociaux que les utilisateurs utilisaient auparavant, tout en ajoutant des mécanismes formalisant et sécurisant leurs activités commerciales. 
 
-En conclusion la faisabilité du projet Wenze s'explique aussi par le fait qu'il est conçu dans le respect profond de la culture locale de la population de Goma, en s’appuyant sur les pratiques communautaires existantes, le commerce de proximité et la relation de confiance entre vendeurs et acheteurs. La plateforme intègre pleinement la dimension linguistique en permettant l’utilisation de l’application en **kiswahili et en français**, les deux langues les plus parlées localement. De plus, le nom **« Wenze »**, issu du **lingala**, l’une des langues nationales de la République Démocratique du Congo, renforce l’ancrage culturel du projet et favorise son appropriation par les communautés locales, en faisant de la technologie un outil au service des usages existants plutôt qu’un facteur de rupture.
-Wenze ne cherche pas à transformer ou remplacer les habitudes locales du commerce ; il vient les renforcer, les sécuriser et les améliorer.
-
 ---
 ## VIII. Qu'est ce qui rends Wenze unique? 
 
