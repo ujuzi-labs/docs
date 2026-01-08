@@ -236,10 +236,11 @@ L’intégration d’un **chat sécurisé** dans l’application permet aux util
 ---
 ## IX. Vision à long terme
 
-- Wenze vise d’abord à maîtriser pleinement son fonctionnement à Goma, en consolidant la confiance des utilisateurs et l’efficacité des transactions, puis dans toute la RDC; 
-- À terme, Wenze ambitionne de s’étendre aux pays des Grands Lacs, à l’ensemble de l’Afrique, puis au monde entier, et pour faciliter cette expansion, Wenze sera publié sur GitHub sous Licence MIT 2.0, permettant l’adaptation par des développeurs et communautés internationales de l’écosystème Cardano; 
-- Les NFT permettront la certification des produits, garantissant leur authenticité et leur traçabilité.
-- Faire des partenariats avec services professionnels et autres marchés des grands opérateurs économiques. 
+- **Wenze vise d’abord à maîtriser pleinement son fonctionnement à Goma**, en consolidant la confiance des utilisateurs, la fiabilité des paiements et l’efficacité des transactions, avant un déploiement progressif dans toute la République Démocratique du Congo.
+- **Afin de protéger les vendeurs contre la volatilité des crypto-actifs**, Wenze intégrera des **stablecoins de l’écosystème Cardano tels que USDM et DJED**, permettant aux commerçants de recevoir des paiements stables, prévisibles et adaptés à une activité économique quotidienne.
+- **À terme, Wenze ambitionne de s’étendre aux pays des Grands Lacs, à l’ensemble du continent africain, puis au monde entier**. Pour faciliter cette expansion et encourager l’adoption locale, **Wenze sera publié sur GitHub sous licence MIT 2.0**, permettant aux développeurs, hubs et communautés internationales de l’écosystème Cardano d’adapter et d’améliorer la solution selon leurs contextes.
+- **Les NFT seront utilisés comme mécanisme de certification des produits**, garantissant leur authenticité, leur traçabilité et leur conformité, tout en renforçant la transparence et la lutte contre la contrefaçon.
+- **Wenze cherchera à établir des partenariats stratégiques avec des services professionnels, des coopératives et des marchés d’opérateurs économiques majeurs**, afin de favoriser l’adoption à grande échelle et l’intégration dans les circuits commerciaux existants.
 ## Conclusion
 
 Wenze dépasse la simple application de marketplace, c’est une solution technologique à un problème social réel, née de la communauté et pour la communauté, alliant le contexte local de Goma à la puissance de la blockchain Cardano pour proposer un modèle de commerce fondé sur la confiance, la transparence et la responsabilité partagée
