@@ -34,7 +34,6 @@ La ville de Goma, capitale du Nord-Kivu, est aujourd’hui une cité dynamique, 
 Avec l’essor des smartphones et de l’Internet mobile, de nombreux commerçants migrent progressivement vers les réseaux sociaux tels que WhatsApp, Facebook, TikTok ou Snapchat pour vendre leurs produits et, bien que cette transition ait élargi la portée des vendeurs, elle a également amplifié des dysfonctionnements déjà présents dans le commerce local.
 
 ## III. Problèmes identifiés
-Certains vendeurs publient des produits qu’ils ne possèdent pas réellement ou affichent des prix attractifs qui changent au moment de la transaction ;
 Les problèmes identifiés dans le cadre de notre projet se déclinent en deux grands contextes : le **commerce physique** et le **commerce numérique**.
 ### 1. Problèmes liés au commerce physique
 
