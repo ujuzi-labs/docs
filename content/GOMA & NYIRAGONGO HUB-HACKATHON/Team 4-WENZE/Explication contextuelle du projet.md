@@ -13,7 +13,7 @@ Pris isolément, cet événement pourrait paraître banal, mais lorsqu’il est 
 
 L’équipe a alors compris que le problème n’était pas individuel mais structurel, et que la blockchain Cardano pouvait offrir une réponse crédible à ces défaillances de confiance.
 
-Afin de s’assurer que le projet ne soit pas une simple idée sans fondement, l’équipe a mené une enquête auprès d’environ 70 personnes vivant dans la ville de Goma. Cette enquête a abouti aux conclusions suivantes :
+Afin de s’assurer que le projet ne soit pas une simple idée sans fondement, l’équipe a mené une enquête auprès d’environ 70 personnes vivant dans la ville de Goma y compris les commerçants et les possibles acheteurs.  Cette enquête a abouti aux conclusions suivantes :
 
 Le commerce en ligne en RDC, et particulièrement à Goma, est déjà bien implanté, mais demeure largement désorganisé. Les jeunes utilisent fréquemment des plateformes telles que WhatsApp, Facebook et TikTok pour acheter et vendre des produits. Cependant, leur expérience est souvent freinée par un manque de confiance, dû notamment aux arnaques, à l’insécurité des paiements et aux difficultés liées à la livraison.
 
