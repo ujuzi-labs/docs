@@ -200,7 +200,7 @@ Nous avons identifié que le principal défi pour l’adoption du projet réside
 - **Conversion sécurisée ADA ↔ FC**  
       - Le MVP de Wenze intègre déjà une balise permettant la conversion sécurisée **ADA ↔ FC** via l’application partenaire [ADAEx](https://app.adaex.app/) ainsi que par le biais de deux échangeurs locaux fiables : Yann Exchange et Jules.  Signalons également que, pour la fixation des prix des prix des produits, **Wenze intègre un système de conversion en temps réel**  permettant aux vendeurs de saisir leurs prix uniquement en **Francs Congolais (FC)** et le système **convertit automatiquement ces prix en ADA**, les produits étant ainsi affichés sur la marketplace avec leurs prix **en FC et en ADA**, permettant aux utilisateurs de rester dans leur logique locale tout en **découvrant progressivement l’usage de la cryptomonnaie ADA**. 
     
-Cela permet aux utilisateurs d’acheter ou de vendre facilement leurs ADA pour les utiliser sur l’application Wenze, tout en se familiarisant progressivement cette cryptomonnaie clé dans le système escrow cardano intégré sur la plateforme Wenze. 
+Cela permet aux utilisateurs d’acheter ou de vendre facilement leurs ADA pour les utiliser sur l’application Wenze, tout en se familiarisant progressivement cette cryptomonnaie clé dans le système escrow cardano intégré sur Wenze. 
     
 4. **Cible géographique précise**
     - Initialement, Wenze se concentre sur la **ville de Goma**, permettant une livraison directe entre utilisateurs et assurant sécurité et confiance.
