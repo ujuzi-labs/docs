@@ -198,10 +198,8 @@ Nous avons identifié que le principal défi pour l’adoption du projet réside
     Une **IA éducative** intégrée à l’application permettra aux utilisateurs de se familiariser avec Cardano, notamment pour la création et la gestion de portefeuilles, et de comprendre le fonctionnement de Wenze.  
     De plus, des **séances de formation et de guide pratique** seront organisées pour compléter cet apprentissage, afin de résoudre le problème d’insuffisance d’éducation sur Cardano à Goma.
 - **Conversion sécurisée ADA ↔ FC**  
-      - Le MVP de Wenze intègre déjà une balise permettant la conversion sécurisée **ADA ↔ FC** via l’application partenaire [ADAEx](https://app.adaex.app/) ainsi que par le biais de deux échangeurs locaux fiables : Yann Exchange et Jules. 
-      - Pour la fixation des prix, **Wenze intègre un système de conversion en temps réel** : les vendeurs saisissent leurs prix uniquement en **Francs Congolais (FC)** et le système **convertit automatiquement ces prix en ADA**, les produits étant ainsi affichés sur la marketplace avec leurs prix **en FC et en ADA**, permettant aux utilisateurs de rester dans leur logique locale tout en **découvrant progressivement l’usage de la cryptomonnaie ADA**
+      - Le MVP de Wenze intègre déjà une balise permettant la conversion sécurisée **ADA ↔ FC** via l’application partenaire [ADAEx](https://app.adaex.app/) ainsi que par le biais de deux échangeurs locaux fiables : Yann Exchange et Jules.  Signalons également que, pour la fixation des prix des prix des produits, **Wenze intègre un système de conversion en temps réel**  permettant aux vendeurs de saisir leurs prix uniquement en **Francs Congolais (FC)** et le système **convertit automatiquement ces prix en ADA**, les produits étant ainsi affichés sur la marketplace avec leurs prix **en FC et en ADA**, permettant aux utilisateurs de rester dans leur logique locale tout en **découvrant progressivement l’usage de la cryptomonnaie ADA**
     Cela garantit que les utilisateurs pourront facilement acheter ou vendre leurs ADA pour une utilisation sur l’application Wenze.
-    
     
 4. **Cible géographique précise**
     - Initialement, Wenze se concentre sur la **ville de Goma**, permettant une livraison directe entre utilisateurs et assurant sécurité et confiance.
