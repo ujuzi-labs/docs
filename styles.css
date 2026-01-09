@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-  --color-prisma-a: #cd5aff;
-  --color-prisma-b: #8067ff;
-  --color-prisma-c: #ef64ff;
-  --color-prisma-d: #ff4b85;
-  --color-prisma-e: #7faec2;
-  --color-prisma-f: #02b4ff;
+  /* Premium Palette */
+  --color-prisma-a: #6366f1; /* Indigo 500 */
+  --color-prisma-b: #8b5cf6; /* Violet 500 */
+  --color-prisma-c: #d946ef; /* Fuchsia 500 */
+  --color-prisma-d: #ec4899; /* Pink 500 */
+  --color-prisma-e: #06b6d4; /* Cyan 500 */
+  --color-prisma-f: #3b82f6; /* Blue 500 */
+  
   --font-custom: "Custom", sans-serif;
   --font-custom-bold: "CustomBold", sans-serif;
   --font-squid: "Squid", sans-serif;
@@ -46,32 +48,119 @@
 
 /* Set the background color for the whole page */
 .dark body {
-    background-color:rgb(0, 0, 0); /* Change this to your desired background color */
-    color: #ffffff; 
+    /* Deep dark background with subtle blue-purple undertaking */
+    background-color: #030712; 
+    background-image: 
+        radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+        radial-gradient(at 100% 0%, rgba(139, 92, 246, 0.15) 0px, transparent 50%),
+        radial-gradient(at 50% 100%, rgba(217, 70, 239, 0.1) 0px, transparent 50%);
+    background-attachment: fixed;
+    color: #f8fafc;
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Animated gradient overlay */
+.dark body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: 
+        radial-gradient(circle at 20% 50%, rgba(99, 102, 241, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(217, 70, 239, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 40% 20%, rgba(59, 130, 246, 0.08) 0%, transparent 50%);
+    animation: gradientShift 15s ease infinite;
+    pointer-events: none;
+    z-index: 0;
+}
+
+@keyframes gradientShift {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.8;
+        transform: scale(1.1);
+    }
 }
 
 /* Light theme styles when Nextra switches to light mode */
 html:not(.dark) body {
-    background-color: #ffffff;
-    color: #333333;
+    background-color: #f8fafc;
+    color: #0f172a;
 }
 
 /* Set font style for headings */
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
     font-family: 'Space Grotesk', sans-serif; 
-    color:rgb(249, 249, 249); 
+    color: #f1f5f9;
+    letter-spacing: -0.02em;
 }
 
 /* Set font style for links */
 a {
-    color: #7faec2; 
+    color: #38bdf8; /* Sky 400 */
     text-decoration: none; 
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
 }
 
 /* Add hover effect to links */
 a:hover {
-    color: #c362ff; 
-    text-decoration: none; 
+    color: #d946ef; /* Fuchsia 500 */
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Enhanced focus styles */
+*:focus-visible {
+    outline: 2px solid rgba(99, 102, 241, 0.5);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* Glassmorphism utility classes */
+.glass {
+    background: rgba(15, 23, 42, 0.4);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.glass-light {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Smooth transitions for all interactive elements */
+button, a, input, textarea, select {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Enhanced card styles */
+.card {
+    background: rgba(15, 23, 42, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(148, 163, 184, 0.1);
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    border-color: rgba(99, 102, 241, 0.3);
+    box-shadow: 0 10px 30px rgba(99, 102, 241, 0.1);
+    transform: translateY(-2px);
 }
 
 .aspect {
@@ -141,7 +230,7 @@ a:hover {
 }
 
 .animated-link:hover .animated-rect {
-  stroke: #cd5aff;
+  stroke: var(--color-prisma-a);
 }
 
 .linked-path {
@@ -154,7 +243,7 @@ a:hover {
 
 /* Hover Area */
 .hover-area-link:hover .linked-path {
-  stroke: #cd5aff; /* Change the stroke color to red when hovered */
+  stroke: var(--color-prisma-a); /* Change the stroke color to primary when hovered */
   transition: stroke 0.3s ease; /* Smooth transition for stroke color change */
 }
 
@@ -178,4 +267,119 @@ a:hover {
   stroke-dasharray: 6 1;
   stroke-dashoffset: 0;
   animation: dashFlow 2s linear infinite;
+}
+
+/* Floating animation */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Glow pulse animation */
+@keyframes glowPulse {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(99, 102, 241, 0.6);
+  }
+}
+
+.animate-glow-pulse {
+  animation: glowPulse 3s ease-in-out infinite;
+}
+
+/* Gradient text animation */
+@keyframes gradientText {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient-text {
+  background-size: 200% auto;
+  animation: gradientText 3s linear infinite;
+}
+
+/* Smooth fade in */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Shimmer effect */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.1),
+    transparent
+  );
+  background-size: 1000px 100%;
+  animation: shimmer 2s infinite;
+}
+
+/* Enhanced scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.5);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(99, 102, 241, 0.5), rgba(217, 70, 239, 0.5));
+  border-radius: 10px;
+  border: 2px solid rgba(15, 23, 42, 0.5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(99, 102, 241, 0.7), rgba(217, 70, 239, 0.7));
+}
+
+/* Selection color */
+::selection {
+  background-color: rgba(99, 102, 241, 0.3);
+  color: #f8fafc;
+}
+
+::-moz-selection {
+  background-color: rgba(99, 102, 241, 0.3);
+  color: #f8fafc;
 }

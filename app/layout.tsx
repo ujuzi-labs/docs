@@ -12,7 +12,7 @@ import { BsCalendarWeek } from "react-icons/bs";
 import Image from "next/image";
 
 const iconClasses =
-  "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110";
+  "w-5 h-5 text-slate-600 dark:text-slate-400 transition-all duration-300 hover:scale-110 relative z-10";
 const hoverColorClasses = [
   "hover:text-prisma-a",
   "hover:text-prisma-b",
@@ -46,28 +46,34 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 const navbar = (
   <Navbar
     logo={
-      <div className="flex items-center gap-2">
-        <Image
-          src="/images/goma-hub-logo.png"
-          alt="Goma Hub Logo"
-          width={36}
-          height={36}
-          priority
-        />
-        <span className="text-lg font-semibold text-blue-600 dark:text-blue-400">
+      <div className="flex items-center gap-2 group">
+        <div className="relative">
+          <div className="absolute inset-0 bg-gradient-to-r from-prisma-a to-prisma-c rounded-full opacity-0 group-hover:opacity-30 blur-lg transition-opacity duration-300" />
+          <Image
+            src="/images/goma-hub-logo.png"
+            alt="Goma Hub Logo"
+            width={36}
+            height={36}
+            priority
+            className="relative z-10 transition-transform duration-300 group-hover:scale-110"
+          />
+        </div>
+        <span className="text-lg font-bold bg-gradient-to-r from-prisma-a via-prisma-c to-prisma-f bg-clip-text text-transparent bg-[length:200%_auto] animate-gradient-text transition-all duration-300 group-hover:scale-105">
           Goma Hub
         </span>
       </div>
     }
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
-      <div className="inline-flex items-center gap-4">
+      <div className="inline-flex items-center gap-3">
         {/* X (Twitter) */}
         <a
           href="https://twitter.com/__prismaevents"
           target="_blank"
           rel="noopener noreferrer"
+          className="group relative p-2 rounded-lg transition-all duration-300 hover:bg-slate-800/50 dark:hover:bg-slate-700/50"
         >
+          <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-prisma-a to-prisma-c opacity-0 group-hover:opacity-20 blur-md transition-opacity duration-300" />
           <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
         </a>
 
@@ -76,7 +82,9 @@ const navbar = (
           href="https://opencollective.com/prisma-collective"
           target="_blank"
           rel="noopener noreferrer"
+          className="group relative p-2 rounded-lg transition-all duration-300 hover:bg-slate-800/50 dark:hover:bg-slate-700/50"
         >
+          <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-prisma-b to-prisma-d opacity-0 group-hover:opacity-20 blur-md transition-opacity duration-300" />
           <OpenCollectiveIcon
             className={`${iconClasses} ${getRandomHoverColor()}`}
           />
@@ -87,7 +95,9 @@ const navbar = (
           href="https://lu.ma/prisma"
           target="_blank"
           rel="noopener noreferrer"
+          className="group relative p-2 rounded-lg transition-all duration-300 hover:bg-slate-800/50 dark:hover:bg-slate-700/50"
         >
+          <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-prisma-e to-prisma-f opacity-0 group-hover:opacity-20 blur-md transition-opacity duration-300" />
           <BsCalendarWeek
             className={`${iconClasses} ${getRandomHoverColor()}`}
           />
@@ -96,7 +106,10 @@ const navbar = (
     }
     projectLink={"https://github.com/prisma-collective/"}
     projectIcon={
-      <FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />
+      <div className="group relative">
+        <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-prisma-f to-prisma-a opacity-0 group-hover:opacity-20 blur-md transition-opacity duration-300" />
+        <FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />
+      </div>
     }
   />
 );
