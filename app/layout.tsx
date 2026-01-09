@@ -9,6 +9,7 @@ import { generateMetadata } from "./utils/metadata";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
+import Image from "next/image";
 
 const iconClasses =
   "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110";
@@ -44,10 +45,19 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 
 const navbar = (
   <Navbar
-    logo={<div className="text-xl font-bold">Goma Hub</div>}
-    logoLink={"https://www.prisma.events/"}
-    chatIcon={
-      <FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />
+    logo={
+      <div className="flex items-center gap-2">
+        <Image
+          src="/images/goma-hub-logo.png"
+          alt="Goma Hub Logo"
+          width={36}
+          height={36}
+          priority
+        />
+        <span className="text-lg font-semibold text-blue-600 dark:text-blue-400">
+          Goma Hub
+        </span>
+      </div>
     }
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
