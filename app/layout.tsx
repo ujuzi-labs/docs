@@ -10,6 +10,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
 import Image from "next/image";
+import TopTeams from "@/components/TopTeams";
 
 const iconClasses =
   "w-5 h-5 text-slate-600 dark:text-slate-400 transition-all duration-300 hover:scale-110 relative z-10";
@@ -59,7 +60,7 @@ const navbar = (
           />
         </div>
         <span className="text-lg font-bold bg-gradient-to-r from-prisma-a via-prisma-c to-prisma-f bg-clip-text text-transparent bg-[length:200%_auto] animate-gradient-text transition-all duration-300 group-hover:scale-105">
-          Goma Hub
+          Goma & Nyiragongo Hubs
         </span>
       </div>
     }
@@ -114,7 +115,7 @@ const navbar = (
   />
 );
 
-const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>;
+const footer = <Footer>Goma et Nyiragongo Hubs © {new Date().getFullYear()}</Footer>;
 
 export default async function RootLayout({
   children,
@@ -162,6 +163,7 @@ export default async function RootLayout({
           {/* <ActiveJourneyProvider> */}
           {children}
           {/* </ActiveJourneyProvider> */}
+          <TopTeams />
           <Analytics />
         </Layout>
       </body>
