@@ -44,7 +44,7 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 
 const navbar = (
   <Navbar
-    logo={<div className="text-xl font-bold">Prisma</div>}
+    logo={<div className="text-xl font-bold">Goma Hub</div>}
     logoLink={"https://www.prisma.events/"}
     chatIcon={
       <FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />
